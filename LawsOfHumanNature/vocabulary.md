@@ -1,0 +1,187 @@
+# The Laws of Human Nature — Vocabulary
+
+## Chapter 1: Master Your Emotional Self
+### The Law of Irrationality
+
+- irrationality — lack of clear, logical thinking
+- veer — to change direction suddenly
+- soothe — to calm or comfort
+- counteract — to reduce or oppose the effect of something
+- cultivate — to develop deliberately
+- ultimatum — a final demand with consequences
+- archenemy — main enemy
+- oligarchy — rule by a small powerful group
+- preeminent — more important than others
+- devastating — highly destructive
+- impending — about to happen
+- agitation — nervous excitement or disturbance
+- embolden — to make someone more confident or daring
+- peculiar — strange or unusual
+- unobtrusive — not attracting attention
+- maneuver — a careful movement or strategy
+- appraisal — careful evaluation or assessment
+- gamut — the complete range
+- permeable — easily influenced or affected
+- permeability — openness to being affected by others
+- susceptibility — tendency to be affected by something
+- susceptible — easily influenced or harmed
+- propensity — natural tendency
+- grandiosity — exaggerated sense of greatness
+- conformity — acting like the group
+- amassed — collected gradually in large amount
+- cull — to gather or select carefully
+- bibliography — list of books and sources
+- decipher — to interpret or understand
+- cajoling — persuading gently or persistently
+- inadvertently — without intending to
+- insinuating — suggesting something indirectly
+- insinuation — indirect or subtle suggestion
+- hypocrisies — pretenses of virtue one does not fully possess
+- thwart — to stop or prevent
+- compendium — a collection of examples or facts
+- leverage — use of borrowed resources for gain
+- derivatives — financial contracts based on other assets
+- cabal — secret group working together
+- speculation — risky financial betting
+- culminate — to reach a final result
+- primal — basic and ancient
+- primitive — basic, ancient, not refined
+- brittle — fragile under pressure
+- demagogue — leader who manipulates emotions of the masses
+- inoculate — protect against harmful influence
+- introspection — looking inward at one’s own thoughts
+- skepticism — questioning attitude
+- shortsightedness — lack of long-term thinking
+- irrational — not based on logic or reason
+- exploit — use something for advantage
+- repercussions — indirect negative consequences
+- mayhem — violent chaos and disorder
+- recoil — draw back in dislike or fear
+- compulsion — strong inner urge
+- ramifications — complex results or consequences
+- arousal — state of heightened alertness or emotion
+- orthodoxy — accepted belief system
+- thrall — state of being under control or influence
+
+---
+
+## Chapter 2: Transform Self-love into Empathy
+### The Law of Narcissism
+
+- empathy — ability to understand and feel another person’s emotions
+- narcissism — excessive self-focus or self-absorption
+- self-absorption — being overly focused on oneself
+- validation — approval that makes someone feel valued
+- fleeting — lasting for a very short time
+- accentuate — to make something more noticeable
+- discrepancy — difference between two things that should match
+- coherent — clear, connected, and consistent
+- cohesive — strongly connected and unified
+- thermostat — regulator that keeps balance; used here metaphorically
+- extrovert — a person who is outgoing and socially expressive
+- introvert — a person more inward and reserved
+- exhibitionistic — behaving in a way meant to attract attention
+- exhibitionism — behavior meant to attract notice
+- grandiose — unrealistically impressive or exaggerated
+- paranoia — extreme suspicion or fear of others
+- oversensitive — too easily hurt or offended
+- hypersensitive — excessively sensitive
+- vengeance — revenge
+- righteous — feeling morally correct and justified
+- manipulative — controlling others in a clever or unfair way
+- enmeshed — overly trapped in someone else’s emotional world
+- enmeshment — unhealthy emotional overinvolvement
+- tyrannical — cruelly controlling and oppressive
+- charisma — strong personal appeal that attracts others
+- façade — false outward appearance
+- resilient — able to recover quickly
+- attunement — being closely aware of another person’s emotions
+- visceral — deeply felt in the body, instinctive
+- analytic — based on careful thinking and examination
+- attribution bias — judging others’ actions as character flaws while excusing our own
+- rapport — close and harmonious understanding
+- mimic — to copy another person’s expression or behavior
+- inferiority — feeling lower or less worthy than others
+- indulgence — tolerant or forgiving treatment
+- latent — present but hidden
+- innumerable — too many to count
+- therapeutic — healing or emotionally beneficial
+- fragmentation — breaking into disconnected parts
+- self-object — person treated as an extension of oneself
+- functional — operating adequately
+- chameleon effect — tendency to unconsciously mirror others
+- divergent — moving in different directions
+- iconoclastic — challenging old beliefs or traditions
+- epitomize — to perfectly represent
+- beckon — attract or invite
+- mollify — calm or reduce anger
+- coquettish — teasingly attractive, pulling in and pushing away
+
+---
+
+## Chapter 3: See Through People’s Masks
+### The Law of Role-playing
+
+- role-playing — acting in a certain social role
+- conceal — to hide something
+- hostility — hidden anger or ill will
+- manipulative — trying to control others cleverly
+- fortunately — by good luck
+- nonverbal — communicated without words
+- inflection — change in tone or pitch of voice
+- tension — mental or physical strain
+- nervous gesture — small movement caused by anxiety
+- transform — to change completely
+- superior — better or more effective
+- defensive — protecting oneself emotionally
+- paralysis — loss of ability to move
+- quarantine — isolation to prevent spread of disease
+- acute — very sharp or sensitive
+- monotone — flat voice with little variation
+- smirk — slight, often mocking smile
+- grimace — twisted facial expression showing discomfort
+- attune — to become sensitive or responsive to something
+- nuance — slight difference in meaning or expression
+- engrossed — completely absorbed
+- psychiatry — medical study of mental disorders
+- unconscious — mental processes outside awareness
+- scrutinize — to examine closely
+- insecurity — lack of confidence or inner stability
+- rigidity — stiffness in behavior or thinking
+- diagnosis — identification of a condition or problem
+- enthralled — fascinated or fully absorbed
+- elaborate — detailed and carefully developed
+- subliminal — below the level of conscious awareness
+- menstruating — experiencing the monthly cycle
+- mannerism — habitual gesture or way of behaving
+- gesture — movement that expresses an idea or feeling
+- disguise — to hide the real nature of something
+- limp — uneven way of walking because of weakness
+- theatrical — exaggerated and dramatic
+- stage — platform for acting; also social life metaphorically
+- mask — false social face shown to others
+- shunned — deliberately avoided by others
+- ridicule — mockery or laughter at someone
+- expressive — clearly showing feelings
+- decode — to understand hidden meaning
+- impression management — controlling how others see you
+- peripheral glance — side glance without staring directly
+- demeanor — outward behavior or appearance
+- reserved — quiet and not openly expressive
+- animated — lively and expressive
+- subvocal — spoken almost silently, with tiny mouth movement
+- microexpression — very brief facial expression revealing true feeling
+- scrutiny — close observation
+- physiognomy — facial features and expression
+- benign — harmless, gentle in appearance
+- limelight — center of attention
+- reproach — blame or criticism
+- saintliness — appearance of moral purity
+- vulnerability — openness to emotional hurt
+- predictable — easy to foresee
+- contradictory — containing opposing qualities
+- reassess — evaluate again
+- resistance — emotional barrier against influence
+- self-mastery — control over one’s own emotions and behavior
+- emulate — imitate with the aim of matching
+- neutral front — calm, non-extreme first appearance
