@@ -338,6 +338,8 @@
 
 ---
 
+# Laws of Human Nature — Vocabulary
+
 ## The Law of Role-Playing
 
 - diligent — careful and hardworking
@@ -899,3 +901,69 @@
   - Hindi: विदेशी / अनोखा
   - Example 1: He was drawn to exotic places.
   - Example 2: The room had an exotic style.
+
+- ingratiation — the act of trying to gain someone’s favor through flattery or pleasing behavior
+  - Hindi: खुशामद / चापलूसी करके कृपा पाना
+  - Example 1: His constant praise felt more like ingratiation than respect.
+  - Example 2: Some people use ingratiation to win influence over powerful others.
+
+- frown — to show displeasure or चिंता by lowering and drawing together the eyebrows
+  - Hindi: भौंहें सिकोड़ना / त्योरी चढ़ाना
+  - Example 1: She began to frown when she heard the remark.
+  - Example 2: His frown showed clear disapproval.
+
+- sneer — a disrespectful or mocking smile or facial expression
+  - Hindi: तिरस्कार भरी मुस्कान / उपहासपूर्ण हावभाव
+  - Example 1: He gave a sneer instead of answering politely.
+  - Example 2: Her sneer revealed hidden contempt.
+
+- glee — strong happiness or delight, sometimes at someone else’s trouble
+  - Hindi: हर्ष / बहुत खुशी / कभी-कभी दूसरों की परेशानी पर खुशी
+  - Example 1: He could not hide his glee after winning the argument.
+  - Example 2: Her face showed glee when the plan succeeded.
+
+- righteous — feeling morally right and justified
+  - Hindi: धर्मयुक्त / स्वयं को सही मानने वाला
+  - Example 1: He spoke with righteous anger after the unfair decision.
+  - Example 2: Her righteous tone made it seem as if only she knew the truth.
+
+- competent — able to do something well and effectively
+  - Hindi: सक्षम / दक्ष
+  - Example 1: She is a competent manager.
+  - Example 2: He looked calm and competent during the crisis.
+
+- employ — to use something for a purpose; also to give someone a job
+  - Hindi: उपयोग करना / नौकरी पर रखना
+  - Example 1: He employed a clever strategy to win trust.
+  - Example 2: The company employs hundreds of workers.
+
+- Watergate — the major U.S. political scandal that led to President Nixon’s resignation
+  - Hindi: वाटरगेट कांड / निक्सन से जुड़ा अमेरिकी राजनीतिक घोटाला
+  - Example 1: Watergate destroyed Nixon’s public image.
+  - Example 2: The scandal was compared to Watergate.
+
+- pound the table — to hit the table with your hand to show strong anger, force, or emphasis
+  - Hindi: मेज़ पर हाथ पटकना / ज़ोर देकर गुस्से या दबाव से कहना
+  - Example 1: He began to pound the table while arguing.
+  - Example 2: The manager pounded the table to show authority.
+
+- veneer — a thin outer appearance that hides the real nature underneath
+  - Hindi: बाहरी परत / दिखावटी आवरण
+  - Example 1: His politeness was only a veneer over hostility.
+  - Example 2: Confidence can sometimes be just a veneer.
+
+- connotations — the ideas or feelings that a word suggests in addition to its direct meaning
+  - Hindi: सहअर्थ / किसी शब्द से जुड़ी अतिरिक्त भावनाएँ या संकेत
+  - Example 1: The word “childlike” has positive connotations, but “childish” has negative ones.
+  - Example 2: His words carried connotations of blame and disrespect.
+
+- cloak yourself — to cover or hide yourself, or to disguise your real intentions or identity
+  - Hindi: खुद को ढँकना / छिपाना / अपने असली इरादों को छिपाना
+  - Example 1: He tried to cloak himself in humility.
+  - Example 2: Some people cloak themselves in politeness to hide hostility.
+
+- foil — to prevent someone’s plan from succeeding; also, in stories, a person who contrasts with another character
+  - Hindi: विफल करना / नाकाम करना; विरोधी-समानांतर पात्र
+  - Example 1: Their careful observation helped foil the deception.
+  - Example 2: In the story, the quiet character serves as a foil to the dramatic one.
+ 
