@@ -1,5 +1,11 @@
 # Laws of Human Nature
 
+## Table of Contents
+
+- [Chapter 1: Master Your Emotional Self - The Law of Irrationality](#chapter-1-master-your-emotional-self---the-law-of-irrationality)
+- [Chapter 2 : Transform Self-love into Empathy - The Law of Narcissism](#chapter-2--transform-self-love-into-empathy---the-law-of-narcissism)
+- [Chapter 3: See Through People’s Masks - The Law of Role-playing](#chapter-3-see-through-peoples-masks---the-law-of-role-playing)
+
 ## Chapter 1: Master Your Emotional Self - The Law of Irrationality
 
 - Pericles, the Athenian leader, represents Greene’s model of rational power.

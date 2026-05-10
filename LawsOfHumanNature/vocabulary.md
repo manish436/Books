@@ -1,5 +1,11 @@
 # Laws of Human Nature — Vocabulary
 
+## Table of Contents
+
+- [The Law of Irrationality](#the-law-of-irrationality)
+- [The Law of Narcissism](#the-law-of-narcissism)
+- [The Law of Role-Playing](#the-law-of-role-playing)
+
 ## The Law of Irrationality
 
 - irrationality — lack of clear, logical thinking  
