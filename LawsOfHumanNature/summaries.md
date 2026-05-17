@@ -5,6 +5,7 @@
 - [Chapter 1: Master Your Emotional Self - The Law of Irrationality](#chapter-1-master-your-emotional-self---the-law-of-irrationality)
 - [Chapter 2 : Transform Self-love into Empathy - The Law of Narcissism](#chapter-2--transform-self-love-into-empathy---the-law-of-narcissism)
 - [Chapter 3: See Through People’s Masks - The Law of Role-playing](#chapter-3-see-through-peoples-masks---the-law-of-role-playing)
+- [Chapter 4: Determine the Strength of People's Character - The Law of Compulsive Behavior](#chapter-4-determine-the-strength-of-peoples-character---the-law-of-compulsive-behavior)
 
 
 ## Chapter 1: Master Your Emotional Self - The Law of Irrationality
@@ -122,3 +123,37 @@
     * Controlled mystery, timing and contrast make your presence more memorable.
   * **Project saintly qualities**:
     * People trust sincerity, restraint, humility and moral seriousness.
+
+
+
+ ## Chapter 4: Determine the Strength of People’s Character - The Law of Compulsive Behavior
+
+- The Pattern
+  - Howard Hughes looked like a bold genius, but his life showed a repeated need for total control.
+  - His childhood dependence, anxiety, and resentment shaped this pattern.
+  - Flying gave him the feeling of freedom and command that he craved.
+  - In business, the same need for control became destructive:
+    - he micromanaged details
+    - challenged others’ authority
+    - created confusion around him
+    - withdrew when pressure became too intense
+
+- Interpretation
+  - Hughes shows that character is revealed by repeated behavior, not image, talent, wealth, or success.
+  - His need to control everything made him lose control.
+  - People misjudged him because they trusted his public myth instead of studying his patterns.
+  - Greene’s lesson:
+    - character is destiny
+    - strong character handles pressure and responsibility
+    - weak character can destroy intelligence, charm, and talent
+
+- Keys to Human Nature
+  - Character is a deep stamp behind our repeated choices, mistakes, reactions, and relationship patterns.
+  - It is formed in layers:
+    - genetics gives us natural predispositions
+    - mother/caregiver attachment leaves the earliest emotional stamp
+    - habits and experiences strengthen repeated ways of dealing with stress, pleasure, and people
+    - late childhood and adolescence create a social front to disguise weak traits
+  - To read character, look past charm, confidence, reputation, or success and study repeated behavior over time.
+  - Strong character shows resilience, adaptability, reliability, patience, and the ability to learn.
+  - Weak character shows evasiveness, insecurity, poor reliability, and repeated destructive habits. 

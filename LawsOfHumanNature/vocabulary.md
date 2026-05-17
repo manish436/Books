@@ -1744,3 +1744,69 @@
   - Hindi: अस्पष्ट
   - Example 1: His promises were vague.
   - Example 2: A vague plan rarely succeeds.
+
+- **uncannily**
+  - English: in a strange or surprising way that seems almost unnatural.
+  - Hindi: अजीब तरह से / आश्चर्यजनक रूप से
+  - Example 1: His behavior was uncannily similar to his father’s.
+  - Example 2: She could uncannily sense when people were hiding something.
+
+- **cringe**
+  - English: to feel embarrassed, uncomfortable, or ashamed because of something awkward.
+  - Hindi: शर्म या असहजता से सिकुड़ना / असहज महसूस करना
+  - Example 1: He made everyone cringe with his rude joke.
+  - Example 2: She cringed when she remembered her awkward mistake.
+
+- **predispose**
+  - English: to make someone more likely to think, feel, or behave in a certain way.
+  - Hindi: किसी प्रवृत्ति की ओर झुकाव पैदा करना
+  - Example 1: Childhood experiences can predispose people to certain emotional patterns.
+  - Example 2: His insecurity predisposed him to distrust others.
+
+- **malleable**
+  - English: easily shaped, influenced, or changed.
+  - Hindi: आसानी से बदलने या प्रभावित होने वाला / लचीला
+  - Example 1: A child’s character is more malleable in early years.
+  - Example 2: He was too malleable and easily influenced by stronger personalities.
+
+- **profound**
+  - English: very deep, serious, or strongly felt.
+  - Hindi: गहरा / गंभीर / बहुत प्रभावशाली
+  - Example 1: Childhood can have a profound effect on character.
+  - Example 2: His failure taught him a profound lesson about responsibility.
+
+- **ambivalent**
+  - English: having mixed or opposite feelings about something or someone.
+  - Hindi: दुविधा में / मिले-जुले भाव वाला
+  - Example 1: He felt ambivalent about leaving his family business.
+  - Example 2: Her ambivalent behavior made it hard to know what she really wanted.
+
+- **distant**
+  - English: emotionally cold, not close, or not warmly involved.
+  - Hindi: दूर / भावनात्मक रूप से ठंडा या अलग
+  - Example 1: A distant parent can make a child feel ignored.
+  - Example 2: He sounded distant during the conversation, as if he did not care.
+
+- **fend**
+  - English: to protect yourself from something or manage without help.
+  - Hindi: बचाव करना / अपने दम पर संभालना
+  - Example 1: He had to fend for himself from a young age.
+  - Example 2: She learned to fend off criticism without losing confidence.
+
+- **retreat**
+  - English: to move back, withdraw, or escape from a difficult situation.
+  - Hindi: पीछे हटना / दूर हो जाना / शरण लेना
+  - Example 1: When criticized, he would retreat into silence.
+  - Example 2: Some people retreat from conflict instead of facing it directly.
+
+- **adolescence**
+  - English: the stage of life between childhood and adulthood, when personality and emotions are still developing.
+  - Hindi: किशोरावस्था / बचपन और वयस्कता के बीच की अवस्था
+  - Example 1: Many character patterns become stronger during adolescence.
+  - Example 2: His insecurity started in adolescence and continued into adulthood.
+
+- **disguise**
+  - English: to hide the real nature of something by making it appear different.
+  - Hindi: भेष बदलना / असली रूप छिपाना
+  - Example 1: People may disguise insecurity as confidence.
+  - Example 2: He tried to disguise his anger with a polite smile.
