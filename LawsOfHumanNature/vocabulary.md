@@ -5,6 +5,8 @@
 - [The Law of Irrationality](#the-law-of-irrationality)
 - [The Law of Narcissism](#the-law-of-narcissism)
 - [The Law of Role-Playing](#the-law-of-role-playing)
+- [The Law of Compulsive Behavior](#the-law-of-compulsive-behavior)
+
 
 ## The Law of Irrationality
 
@@ -973,3 +975,772 @@
   - Example 1: Their careful observation helped foil the deception.
   - Example 2: In the story, the quiet character serves as a foil to the dramatic one.
  
+## The Law of Compulsive Behavior
+
+- **gauge**
+  - English: to judge or measure something.
+  - Hindi: आकलन करना / मापना
+  - Example 1: Try to gauge a person’s character by actions.
+  - Example 2: The teacher gauged the class mood quickly.
+
+- **compulsive**
+  - English: done repeatedly because of a hard-to-control inner urge.
+  - Hindi: बाध्यकारी / मजबूरी जैसा
+  - Example 1: His compulsive need for control hurt the team.
+  - Example 2: She had a compulsive habit of checking every detail.
+
+- **awkward**
+  - English: uncomfortable, clumsy, or socially uneasy.
+  - Hindi: असहज / अटपटा
+  - Example 1: He was an awkward boy around strangers.
+  - Example 2: The silence made the meeting awkward.
+
+- **belligerent**
+  - English: hostile, aggressive, and ready to fight.
+  - Hindi: झगड़ालू / आक्रामक
+  - Example 1: He became belligerent when challenged.
+  - Example 2: Her belligerent tone ruined the discussion.
+
+- **soar**
+  - English: to rise quickly or very high.
+  - Hindi: तेजी से बढ़ना / ऊँचा उठना
+  - Example 1: The budget began to soar.
+  - Example 2: His confidence soared after success.
+
+- **strove**
+  - English: tried very hard.
+  - Hindi: कड़ी कोशिश की
+  - Example 1: He strove for realism in the film.
+  - Example 2: She strove to improve her habits.
+
+- **bucked**
+  - English: resisted or went against something.
+  - Hindi: विरोध किया / टक्कर ली
+  - Example 1: He bucked the system.
+  - Example 2: The young leader bucked tradition.
+
+- **courting**
+  - English: trying to attract or invite something.
+  - Hindi: लुभाने की कोशिश करना
+  - Example 1: He was courting danger with risky flights.
+  - Example 2: The company was courting investors.
+
+- **lobbying**
+  - English: trying to influence officials or decision makers.
+  - Hindi: प्रभाव डालने की कोशिश / लॉबिंग
+  - Example 1: His lobbying efforts won support.
+  - Example 2: The group kept lobbying for change.
+
+- **reconnaissance**
+  - English: observation done to gather information, often military.
+  - Hindi: टोही / जानकारी जुटाने की कार्रवाई
+  - Example 1: The army ordered reconnaissance planes.
+  - Example 2: We did reconnaissance before entering the market.
+
+- **carte blanche**
+  - English: complete freedom to act as one wishes.
+  - Hindi: पूरी छूट / खुली अनुमति
+  - Example 1: He had carte blanche to restructure the firm.
+  - Example 2: The artist received carte blanche for the design.
+
+- **vetoing**
+  - English: rejecting or blocking a decision.
+  - Hindi: रोकना / वीटो करना
+  - Example 1: He kept vetoing other people’s decisions.
+  - Example 2: The board disliked his constant vetoing.
+
+- **salvage**
+  - English: to save something from failure or loss.
+  - Hindi: बचाना / संभालना
+  - Example 1: He tried to salvage the project.
+  - Example 2: They worked late to salvage the deal.
+
+- **unscrupulous**
+  - English: dishonest and without moral principles.
+  - Hindi: बेईमान / अनैतिक
+  - Example 1: The unscrupulous manager used people.
+  - Example 2: Unscrupulous charm can hide bad character.
+
+- **shoddy**
+  - English: badly made or careless in quality.
+  - Hindi: घटिया / लापरवाह
+  - Example 1: The drawings were shoddy.
+  - Example 2: Shoddy work caused delays.
+
+- **itching**
+  - English: strongly wanting to do something.
+  - Hindi: बेचैन इच्छा होना
+  - Example 1: He was itching to return to the spotlight.
+  - Example 2: She was itching to prove herself.
+
+- **meddling**
+  - English: interfering in other people’s matters.
+  - Hindi: दखल देना / हस्तक्षेप करना
+  - Example 1: His meddling slowed the work.
+  - Example 2: Meddling relatives made things worse.
+
+- **regime**
+  - English: a system of rule or control.
+  - Hindi: शासन / व्यवस्था
+  - Example 1: A new regime took over the studio.
+  - Example 2: The regime changed the company culture.
+
+- **aerial**
+  - English: related to air or flying.
+  - Hindi: हवाई / आकाशीय
+  - Example 1: The film used aerial photography.
+  - Example 2: The aerial view showed the whole city.
+
+- **obscurity**
+  - English: a state of being unknown or forgotten.
+  - Hindi: गुमनामी
+  - Example 1: The studio fell into obscurity.
+  - Example 2: Many talented people remain in obscurity.
+
+- **bustling**
+  - English: full of busy activity.
+  - Hindi: चहल-पहल भरा
+  - Example 1: The once-bustling studio became quiet.
+  - Example 2: The market was bustling with people.
+
+- **lavishly**
+  - English: in a rich, generous, or excessive way.
+  - Hindi: भव्य रूप से / खूब खर्च करके
+  - Example 1: He spent lavishly on publicity.
+  - Example 2: The hall was lavishly decorated.
+
+- **bonanza**
+  - English: a sudden chance for large profit or success.
+  - Hindi: बड़ा लाभ / सुनहरा मौका
+  - Example 1: The contract looked like a bonanza.
+  - Example 2: The new market became a bonanza.
+
+- **inadequate**
+  - English: not good enough or not sufficient.
+  - Hindi: अपर्याप्त / नाकाफी
+  - Example 1: The plant was inadequate for the order.
+  - Example 2: His preparation was inadequate.
+
+- **predicament**
+  - English: a difficult or unpleasant situation.
+  - Hindi: कठिन स्थिति / दुविधा
+  - Example 1: He found himself in a predicament.
+  - Example 2: The delay put us in a predicament.
+
+- **fiasco**
+  - English: a complete and embarrassing failure.
+  - Hindi: पूर्ण असफलता / तमाशा
+  - Example 1: The project became a fiasco.
+  - Example 2: Poor planning turned the event into a fiasco.
+
+- **devastating**
+  - English: causing great damage or shock.
+  - Hindi: विनाशकारी / बहुत गहरा असर डालने वाला
+  - Example 1: The failure had a devastating effect.
+  - Example 2: The news was devastating for the family.
+
+- **contamination**
+  - English: the spread or presence of germs, dirt, or impurity.
+  - Hindi: दूषण / संक्रमण
+  - Example 1: He feared contamination by germs.
+  - Example 2: The water suffered contamination.
+
+- **resented**
+  - English: felt bitterness or anger about something unfair.
+  - Hindi: नाराज़ हुआ / कड़वाहट रखी
+  - Example 1: He resented his dependence on others.
+  - Example 2: She resented being ignored.
+
+- **exhilaration**
+  - English: strong excitement and energy.
+  - Hindi: रोमांच / उत्साह
+  - Example 1: Flying gave him exhilaration.
+  - Example 2: Victory filled them with exhilaration.
+
+- **glaring**
+  - English: very obvious and hard to ignore.
+  - Hindi: साफ दिखने वाला / स्पष्ट
+  - Example 1: His weakness was glaring.
+  - Example 2: There was a glaring error in the report.
+
+- **dubious**
+  - English: doubtful or not trustworthy.
+  - Hindi: संदिग्ध / शंकास्पद
+  - Example 1: His character was dubious.
+  - Example 2: The plan had a dubious chance.
+
+- **irresolute**
+  - English: unable to decide firmly.
+  - Hindi: अनिर्णायक / डगमग
+  - Example 1: The irresolute leader delayed action.
+  - Example 2: Her irresolute answer worried us.
+
+- **fleeting**
+  - English: lasting only a short time.
+  - Hindi: क्षणिक
+  - Example 1: He had a fleeting sense of control.
+  - Example 2: Fame can be fleeting.
+
+- **malignant**
+  - English: harmful or dangerous in effect.
+  - Hindi: हानिकारक / घातक
+  - Example 1: A malignant pattern shaped his life.
+  - Example 2: Malignant envy ruins relationships.
+
+- **etymology**
+  - English: the origin and history of a word.
+  - Hindi: शब्द-व्युत्पत्ति
+  - Example 1: Greene explains the etymology of character.
+  - Example 2: Etymology reveals hidden meanings.
+
+- **conceive**
+  - English: to imagine or form an idea.
+  - Hindi: कल्पना करना / समझना
+  - Example 1: We can conceive character as layers.
+  - Example 2: It is hard to conceive his pressure.
+
+- **susceptible**
+  - English: easily influenced or affected.
+  - Hindi: संवेदनशील / प्रभावित होने योग्य
+  - Example 1: Children are susceptible to early influence.
+  - Example 2: He was susceptible to flattery.
+
+- **anthropologist**
+  - English: a person who studies humans and cultures.
+  - Hindi: मानव-विज्ञानी
+  - Example 1: The anthropologist studied attachment.
+  - Example 2: An anthropologist observes human behavior.
+
+- **autonomous**
+  - English: independent and self-directed.
+  - Hindi: स्वायत्त / स्वतंत्र
+  - Example 1: Autonomous children explore more freely.
+  - Example 2: A good worker becomes autonomous.
+
+- **enmeshed**
+  - English: emotionally tangled or overly dependent.
+  - Hindi: भावनात्मक रूप से उलझा हुआ
+  - Example 1: He became enmeshed in their drama.
+  - Example 2: Enmeshed relationships limit freedom.
+
+- **timid**
+  - English: shy or lacking confidence.
+  - Hindi: डरपोक / संकोची
+  - Example 1: A timid person may hide behind a front.
+  - Example 2: The timid student avoided speaking.
+
+- **domineering**
+  - English: trying to control others too much.
+  - Hindi: हुक्म चलाने वाला / दबंग
+  - Example 1: His domineering style damaged trust.
+  - Example 2: A domineering person may hide fear.
+
+- **empathetic**
+  - English: able to understand others’ feelings.
+  - Hindi: सहानुभूतिशील
+  - Example 1: Empathetic people notice pain.
+  - Example 2: A good leader is empathetic.
+
+- **mitigate**
+  - English: to reduce harm or seriousness.
+  - Hindi: कम करना / घटाना
+  - Example 1: Awareness can mitigate weak patterns.
+  - Example 2: Planning can mitigate risk.
+
+- **boorish**
+  - English: rude and insensitive.
+  - Hindi: असभ्य / बदतमीज़
+  - Example 1: A boorish person ignores others’ feelings.
+  - Example 2: His boorish joke offended everyone.
+
+- **prudent**
+  - English: careful, wise, and sensible.
+  - Hindi: समझदार / सावधान
+  - Example 1: A prudent person checks character.
+  - Example 2: It was prudent to wait.
+
+- **incompetence**
+  - English: lack of ability or skill.
+  - Hindi: अक्षमता / अयोग्यता
+  - Example 1: Success can mask incompetence.
+  - Example 2: His incompetence appeared under pressure.
+
+- **tyrant**
+  - English: a cruel and oppressive ruler or person.
+  - Hindi: तानाशाह / अत्याचारी
+  - Example 1: He was a tyrant at heart.
+  - Example 2: The office tyrant controlled everyone.
+
+- **salient**
+  - English: most noticeable or important.
+  - Hindi: प्रमुख / सबसे ध्यान देने योग्य
+  - Example 1: Notice salient signs of character.
+  - Example 2: The salient point was his repeated failure.
+
+- **infamous**
+  - English: well known for bad reasons.
+  - Hindi: कुख्यात
+  - Example 1: He became an infamous speaker.
+  - Example 2: The infamous scandal damaged him.
+
+- **bombastic**
+  - English: using grand, loud, exaggerated language.
+  - Hindi: आडंबरपूर्ण / बढ़ा-चढ़ा बोलने वाला
+  - Example 1: His bombastic speeches attracted crowds.
+  - Example 2: Bombastic language can hide weakness.
+
+- **banished**
+  - English: sent away as punishment.
+  - Hindi: निर्वासित / देशनिकाला दिया गया
+  - Example 1: He was banished from Rome.
+  - Example 2: The ruler banished his rival.
+
+- **harangue**
+  - English: to attack or lecture in a long forceful speech.
+  - Hindi: लंबा आक्रामक भाषण देना
+  - Example 1: He continued to harangue officials.
+  - Example 2: The coach harangued the team.
+
+- **folly**
+  - English: foolishness or a foolish act.
+  - Hindi: मूर्खता
+  - Example 1: His repeated behavior revealed his folly.
+  - Example 2: It is folly to ignore character.
+
+- **eloquent**
+  - English: fluent, powerful, and persuasive in speech.
+  - Hindi: प्रभावशाली वक्ता / सुंदर ढंग से बोलने वाला
+  - Example 1: His words were eloquent but deceptive.
+  - Example 2: An eloquent speaker may still lack character.
+
+- **crumble**
+  - English: to break down under pressure.
+  - Hindi: ढह जाना / टूट जाना
+  - Example 1: Weak people crumble under responsibility.
+  - Example 2: The plan began to crumble.
+
+- **frantic**
+  - English: wildly anxious or panicked.
+  - Hindi: घबराया हुआ / व्याकुल
+  - Example 1: He became frantic when plans failed.
+  - Example 2: The frantic worker made mistakes.
+
+- **hysterical**
+  - English: emotionally out of control.
+  - Hindi: उन्मादी / अत्यधिक भावुक
+  - Example 1: His reaction was almost hysterical.
+  - Example 2: The crowd became hysterical.
+
+- **deferential**
+  - English: showing respectful submission.
+  - Hindi: आदरपूर्ण / विनम्रतापूर्वक झुकने वाला
+  - Example 1: He wore a deferential front.
+  - Example 2: Her deferential tone hid anger.
+
+- **restraints**
+  - English: limits or controls on behavior.
+  - Hindi: नियंत्रण / रोकथाम
+  - Example 1: Power removes some restraints.
+  - Example 2: Rules act as restraints.
+
+- **cling**
+  - English: to hold tightly or remain attached.
+  - Hindi: चिपकना / पकड़कर रखना
+  - Example 1: Some people cling to partners.
+  - Example 2: The child clung to his mother.
+
+- **graciously**
+  - English: politely and kindly.
+  - Hindi: शालीनता से / विनम्रता से
+  - Example 1: He lost graciously.
+  - Example 2: She graciously accepted criticism.
+
+- **pessimistic**
+  - English: expecting bad outcomes.
+  - Hindi: निराशावादी
+  - Example 1: He seemed pessimistic about people.
+  - Example 2: A pessimistic attitude limits action.
+
+- **antisocial**
+  - English: avoiding others or hostile to social life.
+  - Hindi: असामाजिक
+  - Example 1: The introvert may seem antisocial.
+  - Example 2: Antisocial behavior isolates people.
+
+- **shallow**
+  - English: lacking depth or seriousness.
+  - Hindi: उथला / सतही
+  - Example 1: He seemed shallow to others.
+  - Example 2: A shallow judgment misses character.
+
+- **reassess**
+  - English: to judge again in a new way.
+  - Hindi: फिर से आकलन करना
+  - Example 1: We must reassess our first impression.
+  - Example 2: The team reassessed the plan.
+
+- **foist**
+  - English: to force something unwanted on someone.
+  - Hindi: थोपना
+  - Example 1: Do not foist your preferences on others.
+  - Example 2: He foisted his work on the assistant.
+
+- **bluster**
+  - English: loud aggressive talk that hides weakness.
+  - Hindi: खोखली आक्रामकता / धमकीभरी डींग
+  - Example 1: Strength is not the same as bluster.
+  - Example 2: His bluster hid fear.
+
+- **tensile**
+  - English: able to stretch under pressure without breaking.
+  - Hindi: तन्य / दबाव सहने वाला
+  - Example 1: Strong character has a tensile quality.
+  - Example 2: The metal was tensile and flexible.
+
+- **succumbing**
+  - English: giving in to pressure or weakness.
+  - Hindi: झुक जाना / हार मानना
+  - Example 1: They avoid succumbing to anxiety.
+  - Example 2: He resisted succumbing to panic.
+
+- **slippery**
+  - English: hard to trust or pin down.
+  - Hindi: टालमटोल करने वाला / फिसलन भरा
+  - Example 1: Weak people can be slippery.
+  - Example 2: His slippery answer raised suspicion.
+
+- **evasive**
+  - English: avoiding a clear answer.
+  - Hindi: टालमटोल करने वाला
+  - Example 1: She became evasive when questioned.
+  - Example 2: Evasive behavior shows fear.
+
+- **neutralize**
+  - English: to reduce or cancel an effect.
+  - Hindi: निष्प्रभावी करना
+  - Example 1: Weak character can neutralize intelligence.
+  - Example 2: Preparation neutralized fear.
+
+- **disengage**
+  - English: to separate or withdraw.
+  - Hindi: अलग होना / दूरी बनाना
+  - Example 1: Disengage from toxic people.
+  - Example 2: He disengaged from the argument.
+
+- **hyperperfectionist**
+  - English: someone obsessed with impossible perfection.
+  - Hindi: अत्यधिक पूर्णतावादी
+  - Example 1: The hyperperfectionist exhausts others.
+  - Example 2: A hyperperfectionist fears mistakes.
+
+- **lured**
+  - English: tempted or drawn into something.
+  - Hindi: लुभाया गया / फँसाया गया
+  - Example 1: People are lured into their circle.
+  - Example 2: He was lured by quick success.
+
+- **stemming**
+  - English: coming from or caused by something.
+  - Hindi: से उत्पन्न होना
+  - Example 1: His issues were stemming from childhood.
+  - Example 2: The problem was stemming from fear.
+
+- **wounds**
+  - English: emotional hurts or injuries.
+  - Hindi: भावनात्मक घाव / चोटें
+  - Example 1: Old wounds shaped his behavior.
+  - Example 2: She carried wounds from rejection.
+
+- **anxieties**
+  - English: worries or nervous fears.
+  - Hindi: चिंताएँ / घबराहटें
+  - Example 1: His anxieties made him controlling.
+  - Example 2: The exam increased her anxieties.
+
+- **slacking**
+  - English: working lazily or doing less than expected.
+  - Hindi: कामचोरी करना / ढिलाई करना
+  - Example 1: He accused others of slacking.
+  - Example 2: The team noticed him slacking.
+
+- **snub**
+  - English: to insult someone by ignoring or rejecting them.
+  - Hindi: अपमानित करके अनदेखा करना
+  - Example 1: He wanted to snub the teacher.
+  - Example 2: A public snub hurt her pride.
+
+- **precedents**
+  - English: earlier examples or rules used as guidance.
+  - Hindi: मिसालें / पूर्व उदाहरण
+  - Example 1: They ignored rules and precedents.
+  - Example 2: The court followed old precedents.
+
+- **biting**
+  - English: sharp, cruel, or sarcastic.
+  - Hindi: तीखा / कटु
+  - Example 1: He had a biting sense of humor.
+  - Example 2: Her biting remark hurt him.
+
+- **deflate**
+  - English: to weaken confidence or pride.
+  - Hindi: हतोत्साहित करना / हवा निकालना
+  - Example 1: He tried to deflate everyone.
+  - Example 2: Criticism deflated his confidence.
+
+- **oppressor**
+  - English: someone who treats others cruelly or unfairly.
+  - Hindi: उत्पीड़क / अत्याचारी
+  - Example 1: He cast critics as oppressors.
+  - Example 2: The ruler became an oppressor.
+
+- **vicious**
+  - English: cruel or harmful.
+  - Hindi: क्रूर / दुष्ट
+  - Example 1: He had a vicious humor.
+  - Example 2: Vicious gossip destroys trust.
+
+- **sullen**
+  - English: gloomy, silent, and bad-tempered.
+  - Hindi: रूठा हुआ / उदास-चिड़चिड़ा
+  - Example 1: He acted like a sullen teenager.
+  - Example 2: The sullen employee avoided everyone.
+
+- **innocuous**
+  - English: seeming harmless.
+  - Hindi: हानिरहित / साधारण
+  - Example 1: An innocuous comment upset him.
+  - Example 2: The question seemed innocuous.
+
+- **gnawing**
+  - English: slowly troubling or eating away emotionally.
+  - Hindi: कचोटने वाला / अंदर से परेशान करने वाला
+  - Example 1: He felt a gnawing emptiness.
+  - Example 2: Gnawing doubt weakened her.
+
+- **perpetual**
+  - English: continuing all the time.
+  - Hindi: लगातार / अंतहीन
+  - Example 1: He lived in perpetual disappointment.
+  - Example 2: Perpetual stress is exhausting.
+
+- **wronged**
+  - English: treated unfairly.
+  - Hindi: अन्याय का शिकार
+  - Example 1: They saw themselves as wronged.
+  - Example 2: He felt wronged by the decision.
+
+- **inadvertently**
+  - English: unintentionally or by accident.
+  - Hindi: अनजाने में
+  - Example 1: You may inadvertently insult them.
+  - Example 2: She inadvertently revealed the secret.
+
+- **confrontation**
+  - English: direct conflict or challenge.
+  - Hindi: टकराव / सामना
+  - Example 1: They live for confrontation.
+  - Example 2: He avoided confrontation.
+
+- **bickering**
+  - English: petty arguing.
+  - Hindi: छोटी-छोटी बातों पर झगड़ा
+  - Example 1: They told stories of bickering.
+  - Example 2: Constant bickering ruined the mood.
+
+- **embroil**
+  - English: to involve deeply in trouble or conflict.
+  - Hindi: उलझाना / फँसाना
+  - Example 1: They will embroil you in drama.
+  - Example 2: The scandal embroiled the office.
+
+- **maddening**
+  - English: extremely annoying or frustrating.
+  - Hindi: बहुत परेशान करने वाला
+  - Example 1: Their vague promises were maddening.
+  - Example 2: The delay was maddening.
+
+- **antagonistic**
+  - English: hostile or opposed.
+  - Hindi: विरोधी / शत्रुतापूर्ण
+  - Example 1: They blamed antagonistic forces.
+  - Example 2: His antagonistic tone blocked cooperation.
+
+- **nebulous**
+  - English: vague or unclear.
+  - Hindi: अस्पष्ट / धुंधला
+  - Example 1: Their ideas were nebulous.
+  - Example 2: A nebulous plan is hard to execute.
+
+- **guise**
+  - English: an outer appearance hiding the truth.
+  - Hindi: भेष / आवरण
+  - Example 1: Control came under the guise of help.
+  - Example 2: He acted under the guise of kindness.
+
+- **regal**
+  - English: royal, grand, or dignified.
+  - Hindi: राजसी / शाही
+  - Example 1: They had a regal air.
+  - Example 2: Her regal posture impressed people.
+
+- **imbued**
+  - English: filled with a quality or feeling.
+  - Hindi: ओत-प्रोत / भरा हुआ
+  - Example 1: He seemed imbued with superiority.
+  - Example 2: The speech was imbued with confidence.
+
+- **whim**
+  - English: a sudden desire or impulse.
+  - Hindi: सनक / अचानक इच्छा
+  - Example 1: They followed every whim.
+  - Example 2: He changed plans on a whim.
+
+- **intrusion**
+  - English: unwanted interference.
+  - Hindi: दखल / हस्तक्षेप
+  - Example 1: They feared intrusion from the world.
+  - Example 2: The call felt like an intrusion.
+
+- **tantrums**
+  - English: childish outbursts of anger.
+  - Hindi: नखरे / गुस्से के दौरे
+  - Example 1: They display tantrums when denied.
+  - Example 2: The child threw tantrums.
+
+- **pouting**
+  - English: sulking or showing annoyance.
+  - Hindi: मुँह फुलाना / रूठना
+  - Example 1: He reacted by pouting.
+  - Example 2: Pouting is childish anger.
+
+- **consummate**
+  - English: highly skilled and complete.
+  - Hindi: निपुण / पूर्ण
+  - Example 1: They are consummate courtiers.
+  - Example 2: A consummate actor controls expression.
+
+- **courtiers**
+  - English: people who flatter and serve the powerful.
+  - Hindi: दरबारी / चापलूस अनुयायी
+  - Example 1: They behaved like courtiers.
+  - Example 2: Courtiers survive by pleasing power.
+
+- **deflecting**
+  - English: turning attention or criticism away.
+  - Hindi: ध्यान हटाना / मोड़ना
+  - Example 1: He kept deflecting blame.
+  - Example 2: Deflecting criticism became his habit.
+
+- **flattery**
+  - English: praise used to please or manipulate.
+  - Hindi: चापलूसी
+  - Example 1: Flattery can hide resentment.
+  - Example 2: She used flattery to win favor.
+
+- **yearn**
+  - English: to strongly desire.
+  - Hindi: लालसा करना / तरसना
+  - Example 1: They yearn for attention.
+  - Example 2: He yearned to be admired.
+
+- **veneer**
+  - English: a thin outer appearance hiding the truth.
+  - Hindi: ऊपरी परत / दिखावा
+  - Example 1: Cracks appeared in his veneer.
+  - Example 2: A polite veneer hid anger.
+
+- **self-loathing**
+  - English: strong hatred or disgust toward oneself.
+  - Hindi: आत्म-घृणा
+  - Example 1: Self-loathing can turn into envy.
+  - Example 2: He hid his self-loathing behind charm.
+
+- **repressed**
+  - English: held back or hidden, especially emotions.
+  - Hindi: दबा हुआ
+  - Example 1: Repressed anger returned indirectly.
+  - Example 2: His repressed feelings shaped his behavior.
+
+- **condemn**
+  - English: to strongly criticize or judge as wrong.
+  - Hindi: निंदा करना
+  - Example 1: They condemn what they secretly envy.
+  - Example 2: The leader condemned the behavior.
+
+- **nuance**
+  - English: a subtle difference in meaning or feeling.
+  - Hindi: बारीक अंतर / सूक्ष्मता
+  - Example 1: They lacked nuance in judgment.
+  - Example 2: Good observers notice nuance.
+
+- **inquisition**
+  - English: harsh questioning or investigation.
+  - Hindi: कठोर पूछताछ / जाँच
+  - Example 1: You may face their inquisition.
+  - Example 2: The interview felt like an inquisition.
+
+- **inexorable**
+  - English: impossible to stop.
+  - Hindi: अटल / अपरिहार्य
+  - Example 1: The law of character is inexorable.
+  - Example 2: Time moves inexorably.
+
+- **ruthless**
+  - English: without pity or softness.
+  - Hindi: निर्दयी / कठोर
+  - Example 1: Hollywood could be ruthless.
+  - Example 2: A ruthless person sacrifices others.
+
+- **antennae**
+  - English: sensitive awareness for signals or reactions.
+  - Hindi: संकेत पकड़ने की संवेदनशील क्षमता
+  - Example 1: She developed fine social antennae.
+  - Example 2: Good observers have antennae for mood.
+
+- **fierce**
+  - English: strong, intense, or determined.
+  - Hindi: तीव्र / प्रबल
+  - Example 1: She had fierce willpower.
+  - Example 2: The debate became fierce.
+
+- **unheard**
+  - English: not known, noticed, or previously experienced.
+  - Hindi: अनसुना / अभूतपूर्व
+  - Example 1: Such longevity was unheard of.
+  - Example 2: His honesty was almost unheard.
+
+- **alienating**
+  - English: making others feel distant or hostile.
+  - Hindi: अलगाव पैदा करने वाला
+  - Example 1: His tone was alienating.
+  - Example 2: Arrogance can be alienating.
+
+- **assimilate**
+  - English: to absorb and make part of oneself.
+  - Hindi: आत्मसात करना
+  - Example 1: You can assimilate strong habits.
+  - Example 2: Children assimilate family patterns.
+
+- **avarice**
+  - English: extreme greed for wealth.
+  - Hindi: लोभ / लालच
+  - Example 1: Avarice can shape a life.
+  - Example 2: His avarice ruined trust.
+
+- **agonizing**
+  - English: very painful or distressing.
+  - Hindi: कष्टदायक / पीड़ादायक
+  - Example 1: The decision was agonizing.
+  - Example 2: He endured an agonizing delay.
+
+- **infallible omens**
+  - English: signs believed to be always reliable.
+  - Hindi: अचूक संकेत
+  - Example 1: Actions are infallible omens of future behavior.
+  - Example 2: Small choices can be infallible omens.
+
+- **vague**
+  - English: unclear or not specific.
+  - Hindi: अस्पष्ट
+  - Example 1: His promises were vague.
+  - Example 2: A vague plan rarely succeeds.

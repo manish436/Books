@@ -1,44 +1,563 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>The Laws of Human Nature — Mind Memo</title>
-<style>
-:root{--bg:#f6f8fc;--card:#fff;--ink:#15233d;--muted:#5c6b85;--line:#d9e1ef;--green:#1d9b68;--blue:#2f62ff;--purple:#8b5cf6;--shadow:0 12px 30px rgba(15,23,42,.08)}*{box-sizing:border-box}body{margin:0;font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:var(--ink);background:linear-gradient(180deg,#fbfcff 0%,var(--bg) 100%)}.page{padding:24px}.topbar{display:flex;justify-content:space-between;align-items:center;gap:16px;margin-bottom:18px;flex-wrap:wrap}.title h1{margin:0;font-size:clamp(28px,4vw,44px);line-height:1.05;letter-spacing:-.03em}.title p{margin:6px 0 0;color:var(--muted);font-size:16px}.controls{display:flex;align-items:center;gap:10px;background:rgba(255,255,255,.86);border:1px solid var(--line);padding:10px 14px;border-radius:999px;box-shadow:var(--shadow);backdrop-filter:blur(8px)}.controls label{font-size:14px;color:var(--muted)}.controls input[type=range]{width:140px}.board-shell{background:white;border:1px solid var(--line);border-radius:28px;overflow:hidden;box-shadow:var(--shadow)}.board-scroll{overflow:auto;height:calc(100vh - 170px);min-height:720px;background-image:linear-gradient(to right,rgba(70,90,130,.05) 1px,transparent 1px),linear-gradient(to bottom,rgba(70,90,130,.05) 1px,transparent 1px);background-size:28px 28px;background-color:#fcfdff}.board{position:relative;width:3600px;height:2100px;transform-origin:top left;transition:transform .2s ease}.branch-lines{position:absolute;inset:0;width:100%;height:100%;pointer-events:none}.node{position:absolute;background:var(--card);border:2px solid var(--line);border-radius:20px;box-shadow:var(--shadow);padding:14px 16px}.node h2,.node h3,.node h4,.node p{margin:0}.node ul{margin:10px 0 0 18px;padding:0}.node li{margin:5px 0;color:#33425f;line-height:1.35;font-size:14px}.icon{width:28px;height:28px;flex:0 0 28px;display:inline-block}.icon-xl{width:60px;height:60px;display:inline-block}.root{width:340px;min-height:340px;border-radius:999px;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;background:radial-gradient(circle at 30% 30%,#2547b5 0%,#102a74 70%);color:white;border-color:#102a74;padding:28px}.root h2{font-size:34px;line-height:1.05;letter-spacing:-.03em;margin-top:12px}.root p{color:#d9e3ff;margin-top:8px}.chip{display:inline-flex;align-items:center;gap:8px;padding:7px 11px;border-radius:999px;font-size:13px;font-weight:700;color:white;margin-bottom:10px}.chapter{width:320px;color:white;padding:18px}.chapter h3{font-size:24px;line-height:1.1;margin-top:8px}.chapter p{margin-top:6px;color:rgba(255,255,255,.92);font-size:15px;line-height:1.35}.chapter.green{background:linear-gradient(135deg,#21a86f 0%,#147d52 100%);border-color:#147d52}.chapter.blue{background:linear-gradient(135deg,#3b73ff 0%,#224ec2 100%);border-color:#224ec2}.chapter.purple{background:linear-gradient(135deg,#9a67ff 0%,#7242d9 100%);border-color:#7242d9}.section{width:370px;background:white;overflow:hidden}.section .head{display:flex;gap:10px;align-items:flex-start;margin-bottom:10px}.section .head h4{font-size:18px;line-height:1.15;letter-spacing:-.02em}.section .mini{color:var(--muted);font-size:13px;line-height:1.4}.illustration{margin:-14px -16px 10px;height:96px;border-bottom:1px solid #edf1f7;display:flex;align-items:center;justify-content:center;overflow:hidden;background:linear-gradient(180deg,rgba(245,248,255,.95) 0%,rgba(255,255,255,1) 100%);gap:16px}.legend{position:sticky;bottom:16px;left:16px;display:inline-flex;gap:8px;flex-wrap:wrap;margin:16px;padding:10px 12px;background:rgba(255,255,255,.88);border:1px solid var(--line);border-radius:999px;box-shadow:var(--shadow);font-size:13px;color:var(--muted)}.dot{width:10px;height:10px;border-radius:50%;display:inline-block;margin-right:6px}.small{font-size:13px;color:var(--muted)}
-</style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Laws of Human Nature — Mind Memo</title>
+  <style>
+    :root {
+      --bg: #f6f8fc;
+      --card: #ffffff;
+      --ink: #15233d;
+      --muted: #5c6b85;
+      --line: #d9e1ef;
+      --blue: #2f62ff;
+      --green: #1d9b68;
+      --purple: #8b5cf6;
+      --orange: #f59e0b;
+      --shadow: 0 12px 30px rgba(15, 23, 42, 0.08);
+      --radius: 22px;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      color: var(--ink);
+      background: linear-gradient(180deg, #fbfcff 0%, var(--bg) 100%);
+    }
+    .page {
+      padding: 24px;
+    }
+    .topbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 16px;
+      margin-bottom: 18px;
+      flex-wrap: wrap;
+    }
+    .title h1 {
+      margin: 0;
+      font-size: clamp(28px, 4vw, 44px);
+      line-height: 1.05;
+      letter-spacing: -.03em;
+    }
+    .title p {
+      margin: 6px 0 0;
+      color: var(--muted);
+      font-size: 16px;
+    }
+    .controls {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      background: rgba(255,255,255,.8);
+      border: 1px solid var(--line);
+      padding: 10px 14px;
+      border-radius: 999px;
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(8px);
+    }
+    .controls label {
+      font-size: 13px;
+      color: var(--muted);
+    }
+    .controls input[type="range"] {
+      width: 140px;
+    }
+    .board-shell {
+      background: white;
+      border: 1px solid var(--line);
+      border-radius: 28px;
+      overflow: hidden;
+      box-shadow: var(--shadow);
+    }
+    .board-scroll {
+      overflow: auto;
+      height: calc(100vh - 170px);
+      min-height: 700px;
+      background-image:
+        linear-gradient(to right, rgba(70,90,130,.05) 1px, transparent 1px),
+        linear-gradient(to bottom, rgba(70,90,130,.05) 1px, transparent 1px);
+      background-size: 28px 28px;
+      background-color: #fcfdff;
+    }
+    .board {
+      position: relative;
+      width: 3600px;
+      height: 2550px;
+      transform-origin: top left;
+      transition: transform .2s ease;
+    }
+    .branch-lines {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      pointer-events: none;
+    }
+    .node {
+      position: absolute;
+      background: var(--card);
+      border: 2px solid var(--line);
+      border-radius: 20px;
+      box-shadow: var(--shadow);
+      padding: 14px 16px;
+    }
+    .node h2,
+    .node h3,
+    .node h4,
+    .node p {
+      margin: 0;
+    }
+    .node ul {
+      margin: 10px 0 0 18px;
+      padding: 0;
+    }
+    .node li {
+      margin: 5px 0;
+      color: #33425f;
+      line-height: 1.42;
+      font-size: 13px;
+    }
+    .root {
+      width: 340px;
+      min-height: 340px;
+      border-radius: 999px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      background: radial-gradient(circle at 30% 30%, #2547b5 0%, #102a74 70%);
+      color: white;
+      border-color: #102a74;
+      padding: 28px;
+    }
+    .root h2 {
+      font-size: 34px;
+      line-height: 1.05;
+      letter-spacing: -.03em;
+      margin-top: 12px;
+    }
+    .root p { color: #d9e3ff; margin-top: 8px; }
+    .chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 7px 11px;
+      border-radius: 999px;
+      font-size: 13px;
+      font-weight: 700;
+      letter-spacing: .01em;
+      color: white;
+      margin-bottom: 10px;
+    }
+    .chapter {
+      width: 300px;
+      color: white;
+      padding: 18px;
+    }
+    .chapter h3 {
+      font-size: 24px;
+      line-height: 1.1;
+      margin-top: 8px;
+    }
+    .chapter p {
+      margin-top: 6px;
+      color: rgba(255,255,255,.9);
+      font-size: 15px;
+      line-height: 1.42;
+    }
+    .chapter.green { background: linear-gradient(135deg, #21a86f 0%, #147d52 100%); border-color: #147d52; }
+    .chapter.blue { background: linear-gradient(135deg, #3b73ff 0%, #224ec2 100%); border-color: #224ec2; }
+    .chapter.purple { background: linear-gradient(135deg, #9a67ff 0%, #7242d9 100%); border-color: #7242d9; }
+    .section {
+      width: 360px;
+      background: white;
+    }
+    .section .head {
+      display: flex;
+      gap: 10px;
+      align-items: flex-start;
+      margin-bottom: 10px;
+    }
+    .section .head h4 {
+      font-size: 18px;
+      line-height: 1.15;
+      letter-spacing: -.02em;
+    }
+    .section p {
+      color: #33425f;
+      font-size: 13px;
+      line-height: 1.45;
+      margin-bottom: 8px;
+    }
+    .section .mini {
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.35;
+    }
+    .icon {
+      width: 26px;
+      height: 26px;
+      flex: 0 0 26px;
+    }
+    .legend {
+      position: sticky;
+      bottom: 16px;
+      left: 16px;
+      display: inline-flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin: 16px;
+      padding: 10px 12px;
+      background: rgba(255,255,255,.88);
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(8px);
+      font-size: 13px;
+      color: var(--muted);
+    }
+    .dot {
+      width: 10px; height: 10px; border-radius: 50%; display: inline-block; margin-right: 6px;
+    }
+    .small { font-size: 13px; color: var(--muted); }
+  </style>
 </head>
 <body>
-<div class="page"><div class="topbar"><div class="title"><h1>The Laws of Human Nature — Mind Memo</h1><p>Horizontal whiteboard tree using one external SVG sprite file for all icons.</p></div><div class="controls"><label for="zoom">Zoom</label><input id="zoom" type="range" min="55" max="120" value="78"/><span id="zoomValue" class="small">78%</span></div></div>
-<div class="board-shell"><div class="board-scroll"><div class="board" id="board">
-<svg class="branch-lines" viewBox="0 0 3600 2100" fill="none"><path d="M470 1040 C 620 1040, 660 350, 860 350" stroke="#1d9b68" stroke-width="7" stroke-linecap="round"/><path d="M470 1040 C 640 1040, 680 1040, 860 1040" stroke="#2f62ff" stroke-width="7" stroke-linecap="round"/><path d="M470 1040 C 620 1040, 660 1720, 860 1720" stroke="#8b5cf6" stroke-width="7" stroke-linecap="round"/><path d="M1180 350 C 1280 350, 1310 200, 1420 200" stroke="#1d9b68" stroke-width="4"/><path d="M1180 350 C 1280 350, 1310 520, 1420 520" stroke="#1d9b68" stroke-width="4"/><path d="M1790 520 C 1910 520, 1940 360, 2060 360" stroke="#1d9b68" stroke-width="3"/><path d="M1790 520 C 1910 520, 1940 520, 2060 520" stroke="#1d9b68" stroke-width="3"/><path d="M1790 520 C 1910 520, 1940 680, 2060 680" stroke="#1d9b68" stroke-width="3"/><path d="M1180 1040 C 1280 1040, 1310 820, 1420 820" stroke="#2f62ff" stroke-width="4"/><path d="M1180 1040 C 1280 1040, 1310 980, 1420 980" stroke="#2f62ff" stroke-width="4"/><path d="M1180 1040 C 1280 1040, 1310 1140, 1420 1140" stroke="#2f62ff" stroke-width="4"/><path d="M1180 1040 C 1280 1040, 1310 1320, 1420 1320" stroke="#2f62ff" stroke-width="4"/><path d="M1180 1040 C 1280 1040, 1310 1500, 1420 1500" stroke="#2f62ff" stroke-width="4"/><path d="M1180 1720 C 1280 1720, 1310 1600, 1420 1600" stroke="#8b5cf6" stroke-width="4"/><path d="M1180 1720 C 1280 1720, 1310 1810, 1420 1810" stroke="#8b5cf6" stroke-width="4"/><path d="M1810 1810 C 1930 1810, 1960 1450, 2080 1450" stroke="#8b5cf6" stroke-width="3"/><path d="M1810 1810 C 1930 1810, 1960 1630, 2080 1630" stroke="#8b5cf6" stroke-width="3"/><path d="M1810 1810 C 1930 1810, 1960 1810, 2080 1810" stroke="#8b5cf6" stroke-width="3"/><path d="M1810 1810 C 1930 1810, 1960 1990, 2080 1990" stroke="#8b5cf6" stroke-width="3"/><path d="M2460 1810 C 2580 1810, 2610 1730, 2740 1730" stroke="#8b5cf6" stroke-width="2.5"/><path d="M2460 1810 C 2580 1810, 2610 1895, 2740 1895" stroke="#8b5cf6" stroke-width="2.5"/></svg>
+  <div class="page">
+    <div class="topbar">
+      <div class="title">
+        <h1>The Laws of Human Nature — Mind Memo</h1>
+        <p>Horizontal whiteboard tree for Chapters 1–3, built from your summary structure.</p>
+      </div>
+      <div class="controls">
+        <label for="zoom">Zoom</label>
+        <input id="zoom" type="range" min="55" max="120" value="78" />
+        <span id="zoomValue" class="small">78%</span>
+      </div>
+    </div>
 
-<div class="node root" style="left:80px;top:870px"><svg class="icon-xl"><use href="assets/icons-sprite.svg#icon-book"></use></svg><h2>The Laws of Human Nature</h2><p>Growing visual memory map for the book</p></div>
-<div class="node chapter green" style="left:860px;top:260px"><div class="chip" style="background:rgba(255,255,255,.18)"><svg class="icon"><use href="assets/icons-sprite.svg#icon-king"></use></svg>Chapter 1</div><h3>Irrationality</h3><p>Master Your Emotional Self</p></div>
-<div class="node chapter blue" style="left:860px;top:950px"><div class="chip" style="background:rgba(255,255,255,.18)"><svg class="icon"><use href="assets/icons-sprite.svg#icon-narcissist"></use></svg>Chapter 2</div><h3>Narcissism</h3><p>Transform Self-Love into Empathy</p></div>
-<div class="node chapter purple" style="left:860px;top:1630px"><div class="chip" style="background:rgba(255,255,255,.18)"><svg class="icon"><use href="assets/icons-sprite.svg#icon-mask"></use></svg>Chapter 3</div><h3>Role-Playing</h3><p>See Through People’s Masks</p></div>
+    <div class="board-shell">
+      <div class="board-scroll">
+        <div class="board" id="board">
+          <svg class="branch-lines" viewBox="0 0 3600 2550" fill="none">
+            <!-- Root to chapters -->
+            <path d="M470 1040 C 620 1040, 660 350, 860 350" stroke="#1d9b68" stroke-width="7" stroke-linecap="round"/>
+            <path d="M470 1040 C 640 1040, 680 1040, 860 1040" stroke="#2f62ff" stroke-width="7" stroke-linecap="round"/>
+            <path d="M470 1040 C 620 1040, 660 1950, 860 1950" stroke="#8b5cf6" stroke-width="7" stroke-linecap="round"/>
 
-<div class="node section" style="left:1420px;top:110px;border-color:#9ad8b6"><div class="illustration"><svg class="icon-xl"><use href="assets/icons-sprite.svg#icon-king"></use></svg><svg class="icon-xl"><use href="assets/icons-sprite.svg#icon-athena"></use></svg></div><div class="head"><svg class="icon"><use href="assets/icons-sprite.svg#icon-king"></use></svg><div><h4>Model & Interpretation</h4><div class="mini">Pericles, Inner Athena, detached leadership</div></div></div><ul><li>Pericles combined intelligence, self-control, and a rational mind.</li><li>His Inner Athena let him pause, analyze, and act wisely.</li><li>During the war against Sparta, his leadership brought early stability and strategic direction.</li><li>A rational, detached mind helps leaders make sound decisions and control impulses.</li></ul></div>
-<div class="node section" style="left:1420px;top:420px;border-color:#9ad8b6;width:390px"><div class="illustration"><svg class="icon-xl"><use href="assets/icons-sprite.svg#icon-mind"></use></svg><svg class="icon-xl"><use href="assets/icons-sprite.svg#icon-warning"></use></svg></div><div class="head"><svg class="icon"><use href="assets/icons-sprite.svg#icon-mind"></use></svg><div><h4>Keys to Human Nature</h4><div class="mini">Why rationality is needed</div></div></div><ul><li>People are driven by emotions, biases, and social pressures.</li><li>Awareness plus rational judgment allows more strategic action.</li><li>This leads into the three steps toward a rational self.</li></ul></div>
-<div class="node section" style="left:2060px;top:280px;border-color:#9ad8b6;width:370px"><div class="illustration"><svg class="icon-xl"><use href="assets/icons-sprite.svg#icon-bias"></use></svg><svg class="icon-xl"><use href="assets/icons-sprite.svg#icon-warning"></use></svg></div><div class="head"><svg class="icon"><use href="assets/icons-sprite.svg#icon-bias"></use></svg><div><h4>Step One — Biases</h4><div class="mini">Recognize the distortions</div></div></div><ul><li>Confirmation bias</li><li>Conviction bias</li><li>Appearance bias</li><li>Group bias</li><li>Blame bias</li><li>Superiority bias</li></ul></div>
-<div class="node section" style="left:2060px;top:465px;border-color:#9ad8b6;width:370px"><div class="illustration"><svg class="icon-xl"><use href="assets/icons-sprite.svg#icon-fire"></use></svg><svg class="icon-xl"><use href="assets/icons-sprite.svg#icon-pressure"></use></svg></div><div class="head"><svg class="icon"><use href="assets/icons-sprite.svg#icon-fire"></use></svg><div><h4>Step Two — Inflaming Factors</h4><div class="mini">What intensifies irrationality</div></div></div><ul><li>High-grade emotions</li><li>Trigger points from early childhood</li><li>Sudden gains or losses</li><li>Rising pressure</li><li>Inflaming individuals</li><li>The group effect</li></ul></div>
-<div class="node section" style="left:2060px;top:650px;border-color:#9ad8b6;width:370px"><div class="illustration"><svg class="icon-xl"><use href="assets/icons-sprite.svg#icon-check"></use></svg><svg class="icon-xl"><use href="assets/icons-sprite.svg#icon-compass"></use></svg></div><div class="head"><svg class="icon"><use href="assets/icons-sprite.svg#icon-check"></use></svg><div><h4>Step Three — Rational Strategies</h4><div class="mini">How to bring out the rational self</div></div></div><ul><li>Know yourself thoroughly</li><li>Examine emotions to their roots</li><li>Increase your reaction time</li><li>Accept people as facts</li><li>Find the balance of thinking and emotion</li></ul></div>
+            <!-- Chapter 1 horizontals -->
+            <path d="M1160 350 C 1260 350, 1280 220, 1380 220" stroke="#1d9b68" stroke-width="4"/>
+            <path d="M1160 350 C 1260 350, 1280 520, 1380 520" stroke="#1d9b68" stroke-width="4"/>
+            <path d="M1760 520 C 1880 520, 1900 355, 2020 355" stroke="#1d9b68" stroke-width="3"/>
+            <path d="M1760 520 C 1880 520, 1900 595, 2020 595" stroke="#1d9b68" stroke-width="3"/>
+            <path d="M1760 520 C 1880 520, 1900 825, 2020 825" stroke="#1d9b68" stroke-width="3"/>
 
-<div class="node section" style="left:1420px;top:730px;border-color:#b5c8ff"><div class="illustration"><svg class="icon-xl"><use href="assets/icons-sprite.svg#icon-narcissist"></use></svg><svg class="icon-xl"><use href="assets/icons-sprite.svg#icon-mirror"></use></svg></div><div class="head"><svg class="icon"><use href="assets/icons-sprite.svg#icon-narcissist"></use></svg><div><h4>Spectrum & Origins</h4><div class="mini">From self-focus to deep narcissism</div></div></div><ul><li>Narcissism exists on a spectrum; everyone has some self-focus.</li><li>Healthy narcissism supports confidence and empathy.</li><li>Deep narcissism leads to self-absorption and constant validation seeking.</li><li>Childhood emotional imbalance shapes these patterns.</li></ul></div>
-<div class="node section" style="left:1420px;top:920px;border-color:#b5c8ff"><div class="illustration"><svg class="icon-xl"><use href="assets/icons-sprite.svg#icon-twofaces"></use></svg></div><div class="head"><svg class="icon"><use href="assets/icons-sprite.svg#icon-twofaces"></use></svg><div><h4>Styles of Narcissism</h4><div class="mini">Two broad expressions</div></div></div><ul><li>Introverted narcissists: sensitive, withdrawn, misunderstood.</li><li>Extroverted narcissists: charming, attention-seeking, admiration-driven.</li></ul></div>
-<div class="node section" style="left:1420px;top:1085px;border-color:#b5c8ff"><div class="illustration"><svg class="icon-xl"><use href="assets/icons-sprite.svg#icon-heart"></use></svg><svg class="icon-xl"><use href="assets/icons-sprite.svg#icon-empathy"></use></svg></div><div class="head"><svg class="icon"><use href="assets/icons-sprite.svg#icon-heart"></use></svg><div><h4>Forms of Empathy</h4><div class="mini">Three ways of understanding others</div></div></div><ul><li>Physical empathy</li><li>Visceral empathy</li><li>Analytic empathy</li></ul></div>
-<div class="node section" style="left:1420px;top:1265px;border-color:#b5c8ff"><div class="illustration"><svg class="icon-xl"><use href="assets/icons-sprite.svg#icon-eye"></use></svg><svg class="icon-xl"><use href="assets/icons-sprite.svg#icon-connection"></use></svg></div><div class="head"><svg class="icon"><use href="assets/icons-sprite.svg#icon-eye"></use></svg><div><h4>Developing Empathic Skills</h4><div class="mini">Practice-based growth</div></div></div><ul><li>Observe and sense reactions</li><li>Interact with many people</li><li>Combine emotional feeling with analytic observation</li><li>Practise over time</li></ul></div>
-<div class="node section" style="left:1420px;top:1450px;border-color:#b5c8ff"><div class="illustration"><svg class="icon-xl"><use href="assets/icons-sprite.svg#icon-narcissist"></use></svg><svg class="icon-xl"><use href="assets/icons-sprite.svg#icon-crown"></use></svg></div><div class="head"><svg class="icon"><use href="assets/icons-sprite.svg#icon-narcissist"></use></svg><div><h4>Narcissistic Types</h4><div class="mini">Examples from the chapter</div></div></div><ul><li>Complete Control Narcissist</li><li>Theatrical Narcissist</li><li>Narcissistic Couple</li><li>Healthy Narcissist — the Mood Reader</li></ul></div>
+            <!-- Chapter 2 horizontals -->
+            <path d="M1160 1040 C 1260 1040, 1280 790, 1380 790" stroke="#2f62ff" stroke-width="4"/>
+            <path d="M1160 1040 C 1260 1040, 1280 1030, 1380 1030" stroke="#2f62ff" stroke-width="4"/>
+            <path d="M1160 1040 C 1260 1040, 1280 1270, 1380 1270" stroke="#2f62ff" stroke-width="4"/>
+            <path d="M1160 1040 C 1260 1040, 1280 1510, 1380 1510" stroke="#2f62ff" stroke-width="4"/>
+            <path d="M1160 1040 C 1260 1040, 1280 1690, 1380 1690" stroke="#2f62ff" stroke-width="4"/>
 
-<div class="node section" style="left:1420px;top:1560px;border-color:#d6c1ff;width:390px"><div class="illustration"><svg class="icon-xl"><use href="assets/icons-sprite.svg#icon-mask"></use></svg><svg class="icon-xl"><use href="assets/icons-sprite.svg#icon-stage"></use></svg></div><div class="head"><svg class="icon"><use href="assets/icons-sprite.svg#icon-mask"></use></svg><div><h4>Core Idea</h4><div class="mini">People wear social masks</div></div></div><ul><li>Look past appearances and read what people really feel.</li></ul></div>
-<div class="node section" style="left:1420px;top:1730px;border-color:#d6c1ff;width:390px"><div class="illustration"><svg class="icon-xl"><use href="assets/icons-sprite.svg#icon-mask"></use></svg><svg class="icon-xl"><use href="assets/icons-sprite.svg#icon-eye"></use></svg></div><div class="head"><svg class="icon"><use href="assets/icons-sprite.svg#icon-eye"></use></svg><div><h4>Second Language & Model</h4><div class="mini">Body language reveals what words hide</div></div></div><ul><li>Face, tone, posture, gestures, and tension communicate constantly.</li><li>Milton Erickson became a master observer after polio.</li><li>He learned to read hidden fear, resistance, insecurity, and desire.</li></ul></div>
-<div class="node section" style="left:2080px;top:1360px;border-color:#d6c1ff;width:390px"><div class="illustration"><svg class="icon-xl"><use href="assets/icons-sprite.svg#icon-people"></use></svg><svg class="icon-xl"><use href="assets/icons-sprite.svg#icon-mask"></use></svg></div><div class="head"><svg class="icon"><use href="assets/icons-sprite.svg#icon-people"></use></svg><div><h4>Keys to Human Nature</h4><div class="mini">Humans as performers</div></div></div><ul><li>Humans are natural performers.</li><li>Social life depends on masks and politeness.</li><li>Real emotions still leak through the body.</li><li>The goal is perception, not cynicism.</li></ul></div>
-<div class="node section" style="left:2080px;top:1540px;border-color:#d6c1ff;width:390px"><div class="illustration"><svg class="icon-xl"><use href="assets/icons-sprite.svg#icon-eye"></use></svg><svg class="icon-xl"><use href="assets/icons-sprite.svg#icon-notes"></use></svg></div><div class="head"><svg class="icon"><use href="assets/icons-sprite.svg#icon-eye"></use></svg><div><h4>Observational Skills</h4><div class="mini">Build perception methodically</div></div></div><ul><li>Become less inward and more attentive.</li><li>Begin with visible things: face, tone, posture, gestures, tension.</li><li>Stay relaxed, learn baselines, practise gradually.</li></ul></div>
-<div class="node section" style="left:2080px;top:1715px;border-color:#d6c1ff;width:390px"><div class="illustration"><svg class="icon-xl"><use href="assets/icons-sprite.svg#icon-dominance"></use></svg><svg class="icon-xl"><use href="assets/icons-sprite.svg#icon-deception"></use></svg></div><div class="head"><svg class="icon"><use href="assets/icons-sprite.svg#icon-dominance"></use></svg><div><h4>Decoding Keys</h4><div class="mini">Three cue categories</div></div></div><ul><li>Observing is easier than decoding; reduce your bias.</li><li>Dislike/like cues</li><li>Dominance/submission cues</li><li>Deception cues</li></ul></div>
-<div class="node section" style="left:2740px;top:1655px;border-color:#d6c1ff;width:390px"><div class="illustration"><svg class="icon-xl"><use href="assets/icons-sprite.svg#icon-stage"></use></svg><svg class="icon-xl"><use href="assets/icons-sprite.svg#icon-spotlight"></use></svg></div><div class="head"><svg class="icon"><use href="assets/icons-sprite.svg#icon-stage"></use></svg><div><h4>Impression Management</h4><div class="mini">How to shape appearances</div></div></div><ul><li>Master the nonverbal cues.</li><li>Be a method actor.</li><li>Adapt to your audience.</li><li>Create the proper first impression.</li><li>Use dramatic effects.</li><li>Project saintly qualities.</li></ul></div>
-<div class="node section" style="left:2740px;top:1840px;border-color:#d6c1ff;width:390px"><div class="illustration"><svg class="icon-xl"><use href="assets/icons-sprite.svg#icon-mask"></use></svg><svg class="icon-xl"><use href="assets/icons-sprite.svg#icon-check"></use></svg></div><div class="head"><svg class="icon"><use href="assets/icons-sprite.svg#icon-check"></use></svg><div><h4>Chapter Takeaway</h4><div class="mini">Summary node</div></div></div><ul><li>Bodies and tone leak the truth; skilled observers can read beyond the mask.</li></ul></div>
-</div></div></div><div class="legend"><span><span class="dot" style="background:#1d9b68"></span>Chapter 1</span><span><span class="dot" style="background:#2f62ff"></span>Chapter 2</span><span><span class="dot" style="background:#8b5cf6"></span>Chapter 3</span><span>Uses one external SVG sprite file</span></div></div>
-<script>const zoom=document.getElementById('zoom'),board=document.getElementById('board'),zoomValue=document.getElementById('zoomValue');function applyZoom(){const v=zoom.value;board.style.transform=`scale(${v/100})`;zoomValue.textContent=`${v}%`}zoom.addEventListener('input',applyZoom);applyZoom();</script>
+            <!-- Chapter 3 horizontals -->
+            <path d="M1160 1950 C 1260 1950, 1280 1900, 1380 1900" stroke="#8b5cf6" stroke-width="4"/>
+            <path d="M1160 1950 C 1260 1950, 1280 2140, 1380 2140" stroke="#8b5cf6" stroke-width="4"/>
+            <path d="M1760 2140 C 1880 2140, 1900 1610, 2020 1610" stroke="#8b5cf6" stroke-width="3"/>
+            <path d="M1760 2140 C 1880 2140, 1900 1830, 2020 1830" stroke="#8b5cf6" stroke-width="3"/>
+            <path d="M1760 2140 C 1880 2140, 1900 2050, 2020 2050" stroke="#8b5cf6" stroke-width="3"/>
+            <path d="M1760 2140 C 1880 2140, 1900 2280, 2020 2280" stroke="#8b5cf6" stroke-width="3"/>
+
+            <!-- Chapter 3 deeper -->
+            <path d="M2400 2050 C 2520 2050, 2550 1940, 2680 1940" stroke="#8b5cf6" stroke-width="2.5"/>
+            <path d="M2400 2050 C 2520 2050, 2550 2270, 2680 2270" stroke="#8b5cf6" stroke-width="2.5"/>
+          </svg>
+
+          <!-- Root -->
+          <div class="node root" style="left:80px; top:870px;">
+            <svg class="icon" viewBox="0 0 24 24" fill="none" style="width:62px;height:62px;">
+              <rect x="5" y="4" width="14" height="16" rx="2.5" fill="white" opacity="0.95"/>
+              <path d="M9 4v16" stroke="#102a74" stroke-width="1.8"/>
+              <path d="M11.5 8h4" stroke="#102a74" stroke-width="1.5" stroke-linecap="round"/>
+              <path d="M11.5 11h4" stroke="#102a74" stroke-width="1.5" stroke-linecap="round"/>
+              <path d="M11.5 14h3.2" stroke="#102a74" stroke-width="1.5" stroke-linecap="round"/>
+            </svg>
+            <h2>The Laws of Human Nature</h2>
+            <p>Growing visual memory map for the book</p>
+          </div>
+
+          <!-- Chapters -->
+          <div class="node chapter green" style="left:860px; top:260px;">
+            <div class="chip" style="background:rgba(255,255,255,.18)">
+              <svg class="icon" viewBox="0 0 24 24" fill="none"><path d="M6 18c6-1 11-6 12-12 1 6-1 13-8 14-2 .3-3-.3-4-2Z" fill="white"/><path d="M8 16c2-3 5-5 8-6" stroke="#147d52" stroke-width="1.7" stroke-linecap="round"/></svg>
+              Chapter 1
+            </div>
+            <h3>Irrationality</h3>
+            <p>Master Your Emotional Self</p>
+          </div>
+
+          <div class="node chapter blue" style="left:860px; top:950px;">
+            <div class="chip" style="background:rgba(255,255,255,.18)">
+              <svg class="icon" viewBox="0 0 24 24" fill="none"><path d="M12 20c-4.4-2.8-7-5.7-7-9.1C5 8.2 6.8 6.5 9 6.5c1.3 0 2.4.6 3 1.5.6-.9 1.7-1.5 3-1.5 2.2 0 4 1.7 4 4.4 0 3.4-2.6 6.3-7 9.1Z" fill="white"/></svg>
+              Chapter 2
+            </div>
+            <h3>Narcissism</h3>
+            <p>Transform Self-Love into Empathy</p>
+          </div>
+
+          <div class="node chapter purple" style="left:860px; top:1860px;">
+            <div class="chip" style="background:rgba(255,255,255,.18)">
+              <svg class="icon" viewBox="0 0 24 24" fill="none"><path d="M5 8c0-2 1.7-3.5 4-3.5 1.5 0 2.8.6 3.5 1.7.7-1.1 2-1.7 3.5-1.7 2.3 0 4 1.5 4 3.5 0 3.6-3.2 5.5-7.5 8.7C8.2 13.5 5 11.6 5 8Z" fill="white" opacity=".18"/><rect x="4.5" y="8" width="15" height="8" rx="4" fill="white"/><circle cx="9" cy="12" r="1.3" fill="#7242d9"/><circle cx="15" cy="12" r="1.3" fill="#7242d9"/></svg>
+              Chapter 3
+            </div>
+            <h3>Role-Playing</h3>
+            <p>See Through People’s Masks</p>
+          </div>
+
+          <!-- Chapter 1 sections -->
+          <div class="node section" style="left:1380px; top:120px; border-color:#9ad8b6;">
+            <div class="head">
+              <svg class="icon" viewBox="0 0 24 24" fill="none"><circle cx="12" cy="12" r="10" fill="#e8fff4"/><path d="M12 7v5l3 2" stroke="#1d9b68" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              <div><h4>Model & Interpretation</h4><div class="mini">Pericles, Inner Athena, detached leadership</div></div>
+            </div>
+            <ul>
+              <li>Pericles combined intelligence, self-control, and a rational mind.</li>
+              <li>His Inner Athena let him pause, analyze, and act wisely.</li>
+              <li>During the war against Sparta, his leadership brought early stability and strategic direction.</li>
+              <li>A rational, detached mind helps leaders make sound decisions and control impulses.</li>
+            </ul>
+          </div>
+
+          <div class="node section" style="left:1380px; top:420px; border-color:#9ad8b6; width:380px;">
+            <div class="head">
+              <svg class="icon" viewBox="0 0 24 24" fill="none"><rect x="4" y="5" width="16" height="14" rx="3" fill="#e8fff4"/><path d="M8 9h8M8 12h8M8 15h5" stroke="#1d9b68" stroke-width="2" stroke-linecap="round"/></svg>
+              <div><h4>Keys to Human Nature</h4><div class="mini">Why rationality is needed</div></div>
+            </div>
+            <ul>
+              <li>People are driven by emotions, biases, and social pressures.</li>
+              <li>Awareness plus rational judgment allows more strategic action.</li>
+              <li>This leads into the three steps toward a rational self.</li>
+            </ul>
+          </div>
+
+          <div class="node section" style="left:2020px; top:260px; border-color:#9ad8b6; width:360px;">
+            <div class="head">
+              <svg class="icon" viewBox="0 0 24 24" fill="none"><circle cx="12" cy="12" r="10" fill="#e8fff4"/><path d="M8 12h8M12 8v8" stroke="#1d9b68" stroke-width="2" stroke-linecap="round"/></svg>
+              <div><h4>Step One — Biases</h4><div class="mini">Recognize the distortions</div></div>
+            </div>
+            <ul>
+              <li>Confirmation bias</li>
+              <li>Conviction bias</li>
+              <li>Appearance bias</li>
+              <li>Group bias</li>
+              <li>Blame bias</li>
+              <li>Superiority bias</li>
+            </ul>
+          </div>
+
+          <div class="node section" style="left:2020px; top:500px; border-color:#9ad8b6; width:360px;">
+            <div class="head">
+              <svg class="icon" viewBox="0 0 24 24" fill="none"><path d="M12 3l2.6 5.8L21 10l-4.5 4.1 1.2 6.3L12 17.3 6.3 20.4l1.2-6.3L3 10l6.4-1.2L12 3Z" fill="#e8fff4" stroke="#1d9b68" stroke-width="1.6"/></svg>
+              <div><h4>Step Two — Inflaming Factors</h4><div class="mini">What intensifies irrationality</div></div>
+            </div>
+            <ul>
+              <li>High-grade emotions</li>
+              <li>Trigger points from early childhood</li>
+              <li>Sudden gains or losses</li>
+              <li>Rising pressure</li>
+              <li>Inflaming individuals</li>
+              <li>The group effect</li>
+            </ul>
+          </div>
+
+          <div class="node section" style="left:2020px; top:735px; border-color:#9ad8b6; width:360px;">
+            <div class="head">
+              <svg class="icon" viewBox="0 0 24 24" fill="none"><rect x="4" y="4" width="16" height="16" rx="4" fill="#e8fff4"/><path d="M8 12l2.5 2.5L16 9" stroke="#1d9b68" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              <div><h4>Step Three — Rational Strategies</h4><div class="mini">How to bring out the rational self</div></div>
+            </div>
+            <ul>
+              <li>Know yourself thoroughly</li>
+              <li>Examine emotions to their roots</li>
+              <li>Increase your reaction time</li>
+              <li>Accept people as facts</li>
+              <li>Find the balance of thinking and emotion</li>
+            </ul>
+          </div>
+
+          <!-- Chapter 2 sections -->
+          <div class="node section" style="left:1380px; top:700px; border-color:#b5c8ff; width:390px;">
+            <div class="head">
+              <svg class="icon" viewBox="0 0 24 24" fill="none"><circle cx="12" cy="12" r="10" fill="#edf3ff"/><path d="M8 10c0-2 1.5-3 4-3s4 1 4 3-1.5 3-4 3-4 1-4 3 1.5 3 4 3 4-1 4-3" stroke="#2f62ff" stroke-width="2" stroke-linecap="round"/></svg>
+              <div><h4>Spectrum & Origins</h4><div class="mini">From self-focus to deep narcissism</div></div>
+            </div>
+            <ul>
+              <li>Narcissism exists on a spectrum; everyone has some self-focus.</li>
+              <li>Healthy narcissism supports confidence and empathy.</li>
+              <li>Deep narcissism leads to self-absorption and constant validation seeking.</li>
+              <li>Childhood emotional imbalance shapes these patterns.</li>
+            </ul>
+          </div>
+
+          <div class="node section" style="left:1380px; top:940px; border-color:#b5c8ff; width:390px;">
+            <div class="head">
+              <svg class="icon" viewBox="0 0 24 24" fill="none"><rect x="4" y="4" width="16" height="16" rx="5" fill="#edf3ff"/><path d="M8 16c1.6-2 2.8-3 4-3s2.4 1 4 3M9 10.2h.01M15 10.2h.01" stroke="#2f62ff" stroke-width="2" stroke-linecap="round"/></svg>
+              <div><h4>Styles of Narcissism</h4><div class="mini">Two broad expressions</div></div>
+            </div>
+            <ul>
+              <li>Introverted narcissists: sensitive, withdrawn, misunderstood.</li>
+              <li>Extroverted narcissists: charming, attention-seeking, admiration-driven.</li>
+            </ul>
+          </div>
+
+          <div class="node section" style="left:1380px; top:1180px; border-color:#b5c8ff; width:390px;">
+            <div class="head">
+              <svg class="icon" viewBox="0 0 24 24" fill="none"><path d="M12 20c-4.4-2.8-7-5.7-7-9.1C5 8.2 6.8 6.5 9 6.5c1.3 0 2.4.6 3 1.5.6-.9 1.7-1.5 3-1.5 2.2 0 4 1.7 4 4.4 0 3.4-2.6 6.3-7 9.1Z" fill="#edf3ff" stroke="#2f62ff" stroke-width="1.6"/></svg>
+              <div><h4>Forms of Empathy</h4><div class="mini">Three ways of understanding others</div></div>
+            </div>
+            <ul>
+              <li>Physical empathy</li>
+              <li>Visceral empathy</li>
+              <li>Analytic empathy</li>
+            </ul>
+          </div>
+
+          <div class="node section" style="left:1380px; top:1420px; border-color:#b5c8ff; width:390px;">
+            <div class="head">
+              <svg class="icon" viewBox="0 0 24 24" fill="none"><rect x="5" y="5" width="14" height="14" rx="3" fill="#edf3ff"/><path d="M8 12h8M12 8v8" stroke="#2f62ff" stroke-width="2" stroke-linecap="round"/></svg>
+              <div><h4>Developing Empathic Skills</h4><div class="mini">Practice-based growth</div></div>
+            </div>
+            <ul>
+              <li>Observe and sense reactions</li>
+              <li>Interact with many people</li>
+              <li>Combine emotional feeling with analytic observation</li>
+              <li>Practise over time</li>
+            </ul>
+          </div>
+
+          <div class="node section" style="left:1380px; top:1600px; border-color:#b5c8ff; width:390px;">
+            <div class="head">
+              <svg class="icon" viewBox="0 0 24 24" fill="none"><circle cx="8" cy="8" r="3" fill="#edf3ff" stroke="#2f62ff" stroke-width="1.4"/><circle cx="16" cy="8" r="3" fill="#edf3ff" stroke="#2f62ff" stroke-width="1.4"/><circle cx="8" cy="16" r="3" fill="#edf3ff" stroke="#2f62ff" stroke-width="1.4"/><circle cx="16" cy="16" r="3" fill="#edf3ff" stroke="#2f62ff" stroke-width="1.4"/></svg>
+              <div><h4>Narcissistic Types</h4><div class="mini">Examples from the chapter</div></div>
+            </div>
+            <ul>
+              <li>Complete Control Narcissist</li>
+              <li>Theatrical Narcissist</li>
+              <li>Narcissistic Couple</li>
+              <li>Healthy Narcissist — the Mood Reader</li>
+            </ul>
+          </div>
+
+          <!-- Chapter 3 sections -->
+          <div class="node section" style="left:1380px; top:1820px; border-color:#d6c1ff; width:390px;">
+            <div class="head">
+              <svg class="icon" viewBox="0 0 24 24" fill="none"><rect x="4.5" y="8" width="15" height="8" rx="4" fill="#f5efff"/><circle cx="9" cy="12" r="1.3" fill="#8b5cf6"/><circle cx="15" cy="12" r="1.3" fill="#8b5cf6"/></svg>
+              <div><h4>Core Idea</h4><div class="mini">People wear social masks</div></div>
+            </div>
+            <ul>
+              <li>Look past appearances and read what people really feel.</li>
+            </ul>
+          </div>
+
+          <div class="node section" style="left:1380px; top:2060px; border-color:#d6c1ff; width:390px;">
+            <div class="head">
+              <svg class="icon" viewBox="0 0 24 24" fill="none"><circle cx="12" cy="12" r="10" fill="#f5efff"/><path d="M12 7v5l3 2" stroke="#8b5cf6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              <div><h4>Second Language & Model</h4><div class="mini">Body language reveals what words hide</div></div>
+            </div>
+            <ul>
+              <li>Face, tone, posture, gestures, and tension communicate constantly.</li>
+              <li>Milton Erickson became a master observer after polio.</li>
+              <li>He learned to read hidden fear, resistance, insecurity, and desire.</li>
+            </ul>
+          </div>
+
+          <div class="node section" style="left:2020px; top:1540px; border-color:#d6c1ff; width:390px;">
+            <div class="head">
+              <svg class="icon" viewBox="0 0 24 24" fill="none"><rect x="5" y="5" width="14" height="14" rx="3" fill="#f5efff"/><path d="M8 9h8M8 12h8M8 15h5" stroke="#8b5cf6" stroke-width="2" stroke-linecap="round"/></svg>
+              <div><h4>Keys to Human Nature</h4><div class="mini">Humans as performers</div></div>
+            </div>
+            <ul>
+              <li>Humans are natural performers.</li>
+              <li>Social life depends on masks and politeness.</li>
+              <li>Real emotions still leak through the body.</li>
+              <li>The goal is perception, not cynicism.</li>
+            </ul>
+          </div>
+
+          <div class="node section" style="left:2020px; top:1770px; border-color:#d6c1ff; width:390px;">
+            <div class="head">
+              <svg class="icon" viewBox="0 0 24 24" fill="none"><path d="M12 4l7 4v8l-7 4-7-4V8l7-4Z" fill="#f5efff"/><path d="M12 8v8M8.5 10l7 4" stroke="#8b5cf6" stroke-width="1.8" stroke-linecap="round"/></svg>
+              <div><h4>Observational Skills</h4><div class="mini">Build perception methodically</div></div>
+            </div>
+            <ul>
+              <li>Become less inward and more attentive.</li>
+              <li>Begin with visible things: face, tone, posture, gestures, tension.</li>
+              <li>Stay relaxed, learn baselines, practise gradually.</li>
+            </ul>
+          </div>
+
+          <div class="node section" style="left:2020px; top:2000px; border-color:#d6c1ff; width:390px;">
+            <div class="head">
+              <svg class="icon" viewBox="0 0 24 24" fill="none"><circle cx="7" cy="12" r="3" fill="#f5efff"/><circle cx="17" cy="7" r="3" fill="#f5efff"/><circle cx="17" cy="17" r="3" fill="#f5efff"/><path d="M9.5 11l5-2.7M9.5 13l5 2.7" stroke="#8b5cf6" stroke-width="1.8"/></svg>
+              <div><h4>Decoding Keys</h4><div class="mini">Three cue categories</div></div>
+            </div>
+            <ul>
+              <li>Observing is easier than decoding; reduce your bias.</li>
+              <li>Dislike/like cues</li>
+              <li>Dominance/submission cues</li>
+              <li>Deception cues</li>
+            </ul>
+          </div>
+
+          <div class="node section" style="left:2680px; top:1940px; border-color:#d6c1ff; width:390px;">
+            <div class="head">
+              <svg class="icon" viewBox="0 0 24 24" fill="none"><path d="M6 17c1.5-3 4.2-5 6-5 1.8 0 4.5 2 6 5" stroke="#8b5cf6" stroke-width="2" stroke-linecap="round"/><circle cx="9" cy="8" r="2" fill="#f5efff" stroke="#8b5cf6" stroke-width="1.5"/><circle cx="15" cy="8" r="2" fill="#f5efff" stroke="#8b5cf6" stroke-width="1.5"/></svg>
+              <div><h4>Impression Management</h4><div class="mini">How to shape appearances</div></div>
+            </div>
+            <ul>
+              <li>Master the nonverbal cues.</li>
+              <li>Be a method actor.</li>
+              <li>Adapt to your audience.</li>
+              <li>Create the proper first impression.</li>
+              <li>Use dramatic effects.</li>
+              <li>Project saintly qualities.</li>
+            </ul>
+          </div>
+
+          <div class="node section" style="left:2680px; top:2270px; border-color:#d6c1ff; width:390px;">
+            <div class="head">
+              <svg class="icon" viewBox="0 0 24 24" fill="none"><path d="M12 3l2.7 5.4 6 1-4.3 4.2 1 5.9L12 16.9 6.6 19.5l1-5.9L3.3 9.4l6-1L12 3Z" fill="#f5efff" stroke="#8b5cf6" stroke-width="1.4"/></svg>
+              <div><h4>Chapter Takeaway</h4><div class="mini">Summary node</div></div>
+            </div>
+            <ul>
+              <li>Bodies and tone leak the truth; skilled observers can read beyond the mask.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="legend">
+      <span><span class="dot" style="background:#1d9b68"></span>Chapter 1</span>
+      <span><span class="dot" style="background:#2f62ff"></span>Chapter 2</span>
+      <span><span class="dot" style="background:#8b5cf6"></span>Chapter 3</span>
+      <span>Inline SVG icons only — no extra files</span>
+    </div>
+  </div>
+
+  <script>
+    const zoom = document.getElementById('zoom');
+    const board = document.getElementById('board');
+    const zoomValue = document.getElementById('zoomValue');
+    function applyZoom() {
+      const v = zoom.value;
+      board.style.transform = `scale(${v / 100})`;
+      zoomValue.textContent = `${v}%`;
+    }
+    zoom.addEventListener('input', applyZoom);
+    applyZoom();
+  </script>
 </body>
 </html>
