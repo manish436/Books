@@ -977,6 +977,7 @@
  
 ## The Law of Compulsive Behavior
 
+
 - **gauge**
   - English: to judge or measure something.
   - Hindi: आकलन करना / मापना
@@ -1810,3 +1811,39 @@
   - Hindi: भेष बदलना / असली रूप छिपाना
   - Example 1: People may disguise insecurity as confidence.
   - Example 2: He tried to disguise his anger with a polite smile.
+
+- **reflexively**
+  - English: automatically, without conscious thought.
+  - Hindi: अपने आप / बिना सोचे-समझे
+  - Example 1: He reflexively apologized whenever someone looked upset.
+  - Example 2: She reflexively checked her phone after hearing a notification.
+
+- **wear down**
+  - English: to gradually make someone weaker, tired, or less resistant.
+  - Hindi: धीरे-धीरे कमजोर या थका देना / हिम्मत तोड़ना
+  - Example 1: Constant complaints can wear down even a patient person.
+  - Example 2: Long working hours began to wear him down.
+
+- **corollary**
+  - English: a natural result or consequence of something already stated or proven.
+  - Hindi: स्वाभाविक परिणाम / निष्कर्ष
+  - Example 1: If people avoid practice, the corollary is that their skill will not improve.
+  - Example 2: A corollary of trust is that people speak more openly.
+
+- **streak**
+  - English: a repeated tendency or quality in someone’s character.
+  - Hindi: प्रवृत्ति / स्वभाव की झलक
+  - Example 1: She has a creative streak that appears in everything she does.
+  - Example 2: His stubborn streak makes him refuse help.
+
+- **courtier**
+  - English: a person who flatters or serves someone powerful, often to gain favor.
+  - Hindi: दरबारी / चापलूस अनुयायी
+  - Example 1: In the office, he behaved like a courtier around senior managers.
+  - Example 2: Some people become courtiers when they want promotion or special treatment.
+
+- **circumvent**
+  - English: to avoid a rule, problem, or obstacle by finding a clever way around it.
+  - Hindi: बचकर निकलना / चतुराई से रास्ता निकालना
+  - Example 1: He tried to circumvent the company policy by using a loophole.
+  - Example 2: Instead of solving the problem directly, she found a way to circumvent it.

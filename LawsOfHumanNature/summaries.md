@@ -126,7 +126,7 @@
 
 
 
- ## Chapter 4: Determine the Strength of People’s Character - The Law of Compulsive Behavior
+## Chapter 4: Determine the Strength of People’s Character - The Law of Compulsive Behavior
 
 - The Pattern
   - Howard Hughes looked like a bold genius, but his life showed a repeated need for total control.
