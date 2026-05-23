@@ -156,4 +156,11 @@
     - late childhood and adolescence create a social front to disguise weak traits
   - To read character, look past charm, confidence, reputation, or success and study repeated behavior over time.
   - Strong character shows resilience, adaptability, reliability, patience, and the ability to learn.
-  - Weak character shows evasiveness, insecurity, poor reliability, and repeated destructive habits. 
+  - Weak character shows evasiveness, insecurity, poor reliability, and repeated destructive habits.
+
+- Character Signs
+  - The clearest sign of character is how people behave repeatedly, especially under pressure.
+  - Watch how they handle: power, stress,  criticism, responsibility, setbacks
+  - Strong character appears in steady actions, honesty, self-control, and the ability to cooperate.
+  - Weak character appears in excuses, blame, avoidance, inconsistency, and emotional overreaction.
+  - Do not judge people by one impressive moment; study their long-term pattern.
