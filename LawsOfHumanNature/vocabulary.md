@@ -1309,10 +1309,10 @@
   - Example 2: It is folly to ignore character.
 
 - **eloquent**
-  - English: fluent, powerful, and persuasive in speech.
-  - Hindi: प्रभावशाली वक्ता / सुंदर ढंग से बोलने वाला
-  - Example 1: His words were eloquent but deceptive.
-  - Example 2: An eloquent speaker may still lack character.
+  - English: able to express ideas clearly, beautifully, and persuasively.
+  - Hindi: प्रभावशाली ढंग से बोलने या लिखने वाला / वाक्पटु
+  - Example 1: Her eloquent speech moved everyone in the room.
+  - Example 2: He wrote an eloquent email explaining why the project mattered.
 
 - **crumble**
   - English: to break down under pressure.
@@ -1561,10 +1561,10 @@
   - Example 2: The delay was maddening.
 
 - **antagonistic**
-  - English: hostile or opposed.
-  - Hindi: विरोधी / शत्रुतापूर्ण
-  - Example 1: They blamed antagonistic forces.
-  - Example 2: His antagonistic tone blocked cooperation.
+  - English: actively opposing someone or something, or showing dislike/unfriendliness toward them.
+  - Hindi: विरोधी / विरोध भाव वाला / अप्रिय या असहयोगी रवैया रखने वाला
+  - Example 1: He became antagonistic toward anyone who questioned his decision.
+  - Example 2: The two departments had an antagonistic relationship and rarely cooperated.
 
 - **nebulous**
   - English: vague or unclear.
@@ -1651,10 +1651,10 @@
   - Example 2: A polite veneer hid anger.
 
 - **self-loathing**
-  - English: strong hatred or disgust toward oneself.
-  - Hindi: आत्म-घृणा
-  - Example 1: Self-loathing can turn into envy.
-  - Example 2: He hid his self-loathing behind charm.
+  - English: a strong feeling of hatred, disgust, or shame toward oneself.
+  - Hindi: आत्म-घृणा / अपने आप से नफरत या गहरी शर्म
+  - Example 1: His self-loathing made it hard for him to accept compliments.
+  - Example 2: She hid her self-loathing behind constant criticism of others.
 
 - **repressed**
   - English: held back or hidden, especially emotions.
@@ -1847,3 +1847,93 @@
   - Hindi: बचकर निकलना / चतुराई से रास्ता निकालना
   - Example 1: He tried to circumvent the company policy by using a loophole.
   - Example 2: Instead of solving the problem directly, she found a way to circumvent it.
+
+- **reeks**
+  - English: strongly suggests something unpleasant or clearly gives the feeling of something bad.
+  - Hindi: साफ झलकना / बुरी बात का संकेत देना
+  - Example 1: His excuse reeks of dishonesty.
+  - Example 2: The room reeks of damp clothes and old food.
+
+- **painted**
+  - English: described or presented someone/something in a particular way, often not fully fairly.
+  - Hindi: चित्रित किया / किसी खास रूप में पेश किया
+  - Example 1: The media painted him as a careless leader.
+  - Example 2: She painted the situation as worse than it really was.
+
+- **hipness**
+  - English: the quality of seeming fashionable, cool, modern, or socially “in style.”
+  - Hindi: फैशनेबलपन / कूल या आधुनिक दिखने की छवि
+  - Example 1: The café attracted young people because of its hipness and relaxed atmosphere.
+  - Example 2: He tried too hard to show hipness, but it felt unnatural.
+
+- **outdo**
+  - English: to do better than someone else; to surpass another person.
+  - Hindi: आगे निकलना / किसी से बेहतर करना / मात देना
+  - Example 1: He always tries to outdo his colleagues in every presentation.
+  - Example 2: The two restaurants keep trying to outdo each other with better service.
+
+- **pernicious**
+  - English: very harmful in a gradual or hidden way.
+  - Hindi: घातक / धीरे-धीरे नुकसान पहुँचाने वाला
+  - Example 1: A pernicious habit can slowly damage a person’s health.
+  - Example 2: Constant negativity has a pernicious effect on team morale.
+
+- **stodgy**
+  - English: dull, old-fashioned, too serious, or lacking energy.
+  - Hindi: नीरस / पुराने ढंग का / बोझिल
+  - Example 1: The presentation felt stodgy because it had too much text and no visuals.
+  - Example 2: He avoided the restaurant because the atmosphere was too stodgy.
+
+- **lock horns**
+  - English: to argue, fight, or strongly disagree with someone.
+  - Hindi: भिड़ जाना / जोरदार बहस या टकराव करना
+  - Example 1: The two managers locked horns over the new budget.
+  - Example 2: He often locks horns with people who challenge his opinions.
+
+- **brood over**
+  - English: to keep thinking sadly, anxiously, or angrily about something for a long time.
+  - Hindi: किसी बात पर बार-बार चिंता करना / मन में सोचते रहना
+  - Example 1: He spent the whole evening brooding over the mistake he made at work.
+  - Example 2: Do not brood over one bad conversation; learn from it and move on.
+
+- **promiscuous**
+  - English: having many casual sexual relationships; more generally, doing things in a careless or indiscriminate way without being selective.
+  - Hindi: कई लोगों से आकस्मिक यौन संबंध रखने वाला / बिना चयन के अंधाधुंध करने वाला
+  - Example 1: The article criticized his promiscuous lifestyle.
+  - Example 2: The company made promiscuous investments in too many unrelated projects.
+
+- **incite**
+  - English: to encourage, provoke, or stir up someone to do something, especially something angry, harmful, or rebellious.
+  - Hindi: उकसाना / भड़काना
+  - Example 1: His speech seemed designed to incite anger among the crowd.
+  - Example 2: The post was removed because it could incite violence.
+
+- **hooked**
+  - English: strongly attracted to something or unable to stop doing it; addicted or deeply interested.
+  - Hindi: किसी चीज़ का आदी / बहुत ज़्यादा आकर्षित
+  - Example 1: She got hooked on reading psychology books after finishing the first chapter.
+  - Example 2: He was hooked on the new series and watched five episodes in one night.
+
+- **outrage**
+  - English: a very strong feeling of anger and shock because something seems unfair, cruel, or wrong.
+  - Hindi: तीव्र आक्रोश / गुस्सा और सदमा
+  - Example 1: The unfair decision caused public outrage.
+  - Example 2: She expressed outrage when she saw how badly the workers were treated.
+
+- **conviction**
+  - English: a strong belief or certainty that something is true or right.
+  - Hindi: दृढ़ विश्वास / पक्का यकीन
+  - Example 1: She spoke with conviction because she truly believed in her idea.
+  - Example 2: His conviction gave the team confidence during a difficult time.
+
+- **enviously**
+  - English: in a way that shows you want what someone else has.
+  - Hindi: ईर्ष्या से / जलन के साथ
+  - Example 1: He looked enviously at his friend’s new car.
+  - Example 2: She listened enviously as her colleague described the promotion.
+
+- **captive**
+  - English: kept trapped, controlled, or unable to leave freely.
+  - Hindi: बंदी / कैद में / नियंत्रण में रखा हुआ
+  - Example 1: The hostages were held captive for several days.
+  - Example 2: He felt captive in a job he no longer enjoyed.

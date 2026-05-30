@@ -164,3 +164,27 @@
   - Strong character appears in steady actions, honesty, self-control, and the ability to cooperate.
   - Weak character appears in excuses, blame, avoidance, inconsistency, and emotional overreaction.
   - Do not judge people by one impressive moment; study their long-term pattern.
+
+- Toxic Types
+  - Greene warns that some weak character patterns are especially dangerous because they look attractive at first.
+  - The main toxic types include:
+    - **Hyperperfectionist** — controls everything, micromanages, blames others, and wears people down.
+    - **Relentless Rebel** — looks exciting and independent, but compulsively opposes authority and cannot accept limits.
+    - **Personalizer** — seems sensitive, but takes things personally, broods over small comments, and feels easily wronged.
+    - **Big Talker** — has impressive ideas and promises, but avoids effort, responsibility, and follow-through.
+    - **Sexualizer** — uses sexual energy for validation and blurs boundaries in relationships or work.
+    - **Pampered Prince/Princess** — expects others to serve, rescue, or pamper them.
+    - **Pleaser** — looks very nice and accommodating, but often uses charm to avoid hostility; hidden resentment may later appear as lying, passive-aggressive behavior, or quiet sabotage.
+    - **Easy Moralizer** — speaks with moral outrage, but often hides envy, repression, hypocrisy, and lack of empathy.  
+
+- The Superior Character
+  - Character is deeply set, but awareness can help us reshape its weaker parts.
+  - Greene says there are two paths:
+    - denial — ignoring your patterns and repeating the same mistakes
+    - awareness — studying your nature honestly and working with it
+  - To build superior character:
+    - examine your repeated mistakes and emotional patterns
+    - understand your natural strengths and limitations
+    - choose work and relationships that fit your real character
+    - practise new habits that reduce weak patterns
+  - The goal is not to become someone else, but to know yourself deeply and turn your character into strength.
