@@ -6,6 +6,7 @@
 - [The Law of Narcissism](#the-law-of-narcissism)
 - [The Law of Role-Playing](#the-law-of-role-playing)
 - [The Law of Compulsive Behavior](#the-law-of-compulsive-behavior)
+- [The Law of Covetousness](#the-law-of-covetousness)
 
 
 ## The Law of Irrationality
@@ -1937,3 +1938,594 @@
   - Hindi: बंदी / कैद में / नियंत्रण में रखा हुआ
   - Example 1: The hostages were held captive for several days.
   - Example 2: He felt captive in a job he no longer enjoyed.
+
+
+## The Law of Covetousness
+
+- **covetousness**
+  - English: a strong desire to possess something someone else has or something out of reach.
+  - Hindi: लालसा / किसी चीज़ को पाने की तीव्र इच्छा
+  - Example 1: His covetousness made him unhappy with what he already had.
+  - Example 2: Advertising often feeds covetousness by showing us what we lack.
+
+- **somber**
+  - English: dark, serious, or sad in mood or appearance.
+  - Hindi: गंभीर / उदास
+  - Example 1: The room had a somber atmosphere after the bad news.
+  - Example 2: He wore a somber expression during the meeting.
+
+- **austerity**
+  - English: a plain, strict life without luxury.
+  - Hindi: सादगी / कठोर संयम
+  - Example 1: The monastery was known for its austerity.
+  - Example 2: After losing his job, he lived with great austerity.
+
+- **shunned**
+  - English: avoided or rejected by others.
+  - Hindi: दूर रखा गया / बहिष्कृत
+  - Example 1: She felt shunned by her old friends.
+  - Example 2: The group shunned anyone who broke its customs.
+
+- **protagonists**
+  - English: main characters in a story.
+  - Hindi: मुख्य पात्र
+  - Example 1: The protagonists in the novel face many difficult choices.
+  - Example 2: Children often identify with brave protagonists in stories.
+
+- **châteaux**
+  - English: large French country houses or castles.
+  - Hindi: फ्रांसीसी महल
+  - Example 1: They visited several châteaux in France.
+  - Example 2: The old château stood above the village.
+
+- **seamstress**
+  - English: a woman who sews clothes professionally.
+  - Hindi: दर्जिन / सिलाई करने वाली महिला
+  - Example 1: The seamstress repaired the torn dress.
+  - Example 2: Her grandmother worked as a seamstress.
+
+- **courtesans**
+  - English: women historically supported by wealthy lovers in elite circles.
+  - Hindi: उच्च वर्ग से जुड़ी गणिका / रखैल
+  - Example 1: Courtesans often moved in wealthy social circles.
+  - Example 2: The story describes courtesans as elegant but socially excluded women.
+
+- **shackled**
+  - English: restricted, chained, or prevented from moving freely.
+  - Hindi: जकड़ा हुआ / प्रतिबंधित
+  - Example 1: He felt shackled by family expectations.
+  - Example 2: The prisoner was shackled during transport.
+
+- **absurd**
+  - English: ridiculous or unreasonable.
+  - Hindi: बेतुका / हास्यास्पद
+  - Example 1: The idea sounded absurd at first.
+  - Example 2: It is absurd to expect success without effort.
+
+- **voluptuous**
+  - English: full, attractive, sensuous, or richly pleasurable.
+  - Hindi: सुडौल / इंद्रिय आकर्षक
+  - Example 1: The painting showed a voluptuous figure.
+  - Example 2: The room had a voluptuous richness of color.
+
+- **pilfered**
+  - English: stole something small.
+  - Hindi: छोटी चोरी की
+  - Example 1: Someone pilfered snacks from the kitchen.
+  - Example 2: He pilfered a pen from the drawer.
+
+- **corsets**
+  - English: tight garments worn to shape the waist/body.
+  - Hindi: कॉर्सेट / कमर कसने वाला वस्त्र
+  - Example 1: Women once wore corsets under their dresses.
+  - Example 2: The costume included a stiff corset.
+
+- **constricting**
+  - English: tightening or limiting movement/freedom.
+  - Hindi: कसने वाला / सीमित करने वाला
+  - Example 1: The shoes were too constricting.
+  - Example 2: Strict rules can feel constricting.
+
+- **fussy**
+  - English: over-decorated, over-detailed, or hard to please.
+  - Hindi: नखरीला / बोझिल / बहुत सजावटी
+  - Example 1: The design looked too fussy.
+  - Example 2: He is fussy about how his tea is made.
+
+- **unconcealed**
+  - English: not hidden; openly visible.
+  - Hindi: साफ दिखाई देने वाला
+  - Example 1: She looked at the award with unconcealed envy.
+  - Example 2: His irritation was unconcealed.
+
+- **captivated**
+  - English: strongly attracted or fascinated.
+  - Hindi: मोहित / आकर्षित
+  - Example 1: The audience was captivated by her performance.
+  - Example 2: He was captivated by the mountains.
+
+- **androgynous**
+  - English: having both masculine and feminine qualities.
+  - Hindi: स्त्री-पुरुष दोनों गुणों वाला
+  - Example 1: The model wore an androgynous outfit.
+  - Example 2: Her androgynous style challenged fashion rules.
+
+- **sidesaddle**
+  - English: riding a horse with both legs on one side.
+  - Hindi: घोड़े पर एक तरफ पैर रखकर बैठना
+  - Example 1: Many women were once taught to ride sidesaddle.
+  - Example 2: She refused to ride sidesaddle.
+
+- **strode**
+  - English: walked with long confident steps.
+  - Hindi: लंबे आत्मविश्वासी कदमों से चला
+  - Example 1: He strode into the room with confidence.
+  - Example 2: She strode across the stage.
+
+- **prevailing**
+  - English: most common or existing at that time.
+  - Hindi: प्रचलित / मौजूदा
+  - Example 1: The prevailing opinion was that the plan would fail.
+  - Example 2: She challenged the prevailing fashion.
+
+- **clamoring**
+  - English: loudly demanding or eagerly asking.
+  - Hindi: जोरदार मांग करना
+  - Example 1: Fans were clamoring for tickets.
+  - Example 2: Customers were clamoring to buy the new phone.
+
+- **sauntered**
+  - English: walked slowly and confidently.
+  - Hindi: आराम से टहलता हुआ चला
+  - Example 1: He sauntered into the café.
+  - Example 2: She sauntered along the beach.
+
+- **sought-after**
+  - English: wanted by many people.
+  - Hindi: बहुत माँग वाला
+  - Example 1: She became a sought-after designer.
+  - Example 2: The course is sought-after worldwide.
+
+- **mystique**
+  - English: an attractive aura of mystery.
+  - Hindi: रहस्यमय आकर्षण
+  - Example 1: The actor’s silence added to his mystique.
+  - Example 2: Luxury brands build mystique around their products.
+
+- **ethereal**
+  - English: delicate, light, and almost otherworldly.
+  - Hindi: अलौकिक / हल्का और सुंदर
+  - Example 1: The music had an ethereal quality.
+  - Example 2: Her dress looked ethereal in the soft light.
+
+- **subliminal**
+  - English: affecting the mind without conscious awareness.
+  - Hindi: अवचेतन पर असर डालने वाला
+  - Example 1: The ad used subliminal suggestions.
+  - Example 2: A scent can create a subliminal feeling of comfort.
+
+- **feign**
+  - English: to pretend.
+  - Hindi: दिखावा करना / बहाना करना
+  - Example 1: He tried to feign surprise.
+  - Example 2: She feigned ignorance.
+
+- **reigned**
+  - English: ruled or dominated.
+  - Hindi: राज किया / प्रभुत्व रखा
+  - Example 1: The champion reigned for ten years.
+  - Example 2: That trend reigned throughout the decade.
+
+- **subservient**
+  - English: too willing to obey or serve.
+  - Hindi: अत्यधिक अधीन / दब्बू
+  - Example 1: He disliked being treated as subservient.
+  - Example 2: The system expected workers to remain subservient.
+
+- **debuted**
+  - English: appeared publicly for the first time.
+  - Hindi: पहली बार प्रस्तुत हुआ
+  - Example 1: The singer debuted her new song.
+  - Example 2: The company debuted its latest product.
+
+- **pilloried**
+  - English: publicly criticized or mocked harshly.
+  - Hindi: सार्वजनिक रूप से कड़ी आलोचना की गई
+  - Example 1: The minister was pilloried in the press.
+  - Example 2: She was pilloried online for her mistake.
+
+- **unfussy silhouettes**
+  - English: simple clean clothing shapes without excessive decoration.
+  - Hindi: सादे और सरल परिधान आकार
+  - Example 1: The designer preferred unfussy silhouettes.
+  - Example 2: Unfussy silhouettes made the clothes look modern.
+
+- **eminently**
+  - English: very; extremely; to a high degree.
+  - Hindi: अत्यंत / बहुत अधिक
+  - Example 1: The plan was eminently practical.
+  - Example 2: She was eminently qualified.
+
+- **seamstresses**
+  - English: women who sew clothes professionally.
+  - Hindi: दर्जिनें
+  - Example 1: The seamstresses worked late.
+  - Example 2: She hired skilled seamstresses.
+
+- **imprint**
+  - English: a lasting mark or influence.
+  - Hindi: छाप / स्थायी प्रभाव
+  - Example 1: Her teacher left a strong imprint on her mind.
+  - Example 2: Childhood leaves a deep imprint on personality.
+
+- **transgressive**
+  - English: breaking rules, limits, or accepted norms.
+  - Hindi: नियम तोड़ने वाला
+  - Example 1: The film was considered transgressive.
+  - Example 2: His transgressive style attracted attention.
+
+- **coveted**
+  - English: strongly desired by many people.
+  - Hindi: बहुत चाहा गया
+  - Example 1: The award is highly coveted.
+  - Example 2: She got the coveted seat near the window.
+
+- **flouting**
+  - English: openly disobeying or disrespecting rules.
+  - Hindi: खुलेआम उल्लंघन करना
+  - Example 1: He was accused of flouting safety rules.
+  - Example 2: Her style seemed to be flouting old norms.
+
+- **elusive**
+  - English: hard to find, catch, define, or understand.
+  - Hindi: पकड़ में न आने वाला / रहस्यमय
+  - Example 1: The solution remained elusive.
+  - Example 2: He had an elusive charm.
+
+- **allure**
+  - English: strong charm or attraction.
+  - Hindi: आकर्षण / मोहकता
+  - Example 1: The city has a special allure at night.
+  - Example 2: Mystery increases allure.
+
+- **covet**
+  - English: to strongly desire something, especially what others have.
+  - Hindi: लालसा करना
+  - Example 1: He began to covet his neighbor’s success.
+  - Example 2: People often covet what is out of reach.
+
+- **fantasies**
+  - English: imagined desires or situations beyond ordinary reality.
+  - Hindi: कल्पनाएँ
+  - Example 1: Children create fantasies about magical worlds.
+  - Example 2: Advertising feeds people’s fantasies.
+
+- **ubiquity**
+  - English: being or seeming to be everywhere.
+  - Hindi: सर्वव्यापकता
+  - Example 1: The ubiquity of phones changed daily life.
+  - Example 2: The brand gained power through ubiquity.
+
+- **piquant**
+  - English: pleasantly sharp, interesting, or exciting.
+  - Hindi: तीखा और रोचक
+  - Example 1: The story had a piquant mystery.
+  - Example 2: The sauce had a piquant flavor.
+
+- **delude**
+  - English: to make someone believe something false.
+  - Hindi: भ्रम में डालना
+  - Example 1: Do not delude yourself that the task is easy.
+  - Example 2: He deluded friends with false promises.
+
+- **contented**
+  - English: satisfied with what one has.
+  - Hindi: संतुष्ट
+  - Example 1: She felt contented after a quiet day.
+  - Example 2: A contented person does not constantly chase more.
+
+- **exodus**
+  - English: a mass departure of people.
+  - Hindi: सामूहिक प्रस्थान / पलायन
+  - Example 1: The war caused an exodus from the city.
+  - Example 2: The story describes the exodus from Egypt.
+
+- **manna**
+  - English: miraculous food or unexpected help.
+  - Hindi: स्वर्ग से मिला भोजन / अप्रत्याशित सहारा
+  - Example 1: The donation felt like manna.
+  - Example 2: In the story, manna fed people in the desert.
+
+- **discontent**
+  - English: dissatisfaction with present circumstances.
+  - Hindi: असंतोष
+  - Example 1: His discontent pushed him to find a new job.
+  - Example 2: Comparison creates discontent.
+
+- **unabated**
+  - English: continuing without weakening.
+  - Hindi: बिना घटे / लगातार
+  - Example 1: The rain continued unabated.
+  - Example 2: Her enthusiasm remained unabated.
+
+- **grimy**
+  - English: dirty or covered with grime.
+  - Hindi: मैला / गंदा
+  - Example 1: The windows were grimy.
+  - Example 2: He worked in a grimy old factory.
+
+- **veritable utopia**
+  - English: a seemingly perfect place or condition.
+  - Hindi: सचमुच का आदर्श लोक
+  - Example 1: The island seemed like a veritable utopia.
+  - Example 2: The brochure described the resort as a veritable utopia.
+
+- **induction**
+  - English: a mental contrast effect where one idea evokes its opposite.
+  - Hindi: प्रेरण / विपरीत विचार जागना
+  - Example 1: The color red can create an induction of green.
+  - Example 2: Forbidden ideas can create an induction toward desire.
+
+- **dredging up**
+  - English: bringing back old memories, facts, or feelings.
+  - Hindi: पुरानी बातें निकालना
+  - Example 1: The argument kept dredging up old complaints.
+  - Example 2: The documentary dredged up painful memories.
+
+- **vacillation**
+  - English: movement back and forth between thoughts or choices.
+  - Hindi: डगमगाहट / अस्थिरता
+  - Example 1: His vacillation made the team lose confidence.
+  - Example 2: She showed vacillation between staying and leaving.
+
+- **complacency**
+  - English: dangerous self-satisfaction that ignores risk or improvement.
+  - Hindi: आत्मसंतुष्टि / बेफिक्री
+  - Example 1: Complacency can weaken a successful company.
+  - Example 2: His complacency stopped him from preparing.
+
+- **lurked**
+  - English: remained hidden, often threateningly.
+  - Hindi: छिपा हुआ था / घात लगाए था
+  - Example 1: A hidden risk lurked behind the offer.
+  - Example 2: Fear lurked beneath his confident smile.
+
+- **savannas**
+  - English: wide tropical grasslands with few trees.
+  - Hindi: सवाना घासभूमि
+  - Example 1: Lions roam across African savannas.
+  - Example 2: Early humans survived in savannas and forests.
+
+- **voyage**
+  - English: a long journey, especially by sea or imagination.
+  - Hindi: लंबी यात्रा
+  - Example 1: They began a voyage across the ocean.
+  - Example 2: Books allow the mind to voyage beyond ordinary life.
+
+- **coveting**
+  - English: strongly desiring something, especially what others have.
+  - Hindi: लालसा करना
+  - Example 1: He spent years coveting a glamorous life.
+  - Example 2: Coveting others’ success can make us restless.
+
+- **bombardment**
+  - English: a constant flood or attack of messages, pressure, or information.
+  - Hindi: लगातार बौछार / हमला
+  - Example 1: We face a daily bombardment of ads.
+  - Example 2: The bombardment of emails made focus difficult.
+
+- **stirring up**
+  - English: arousing or provoking strong feelings.
+  - Hindi: भड़काना / जागृत करना
+  - Example 1: The speech was stirring up anger.
+  - Example 2: Old memories can stir up sadness.
+
+- **subtlety**
+  - English: delicacy, indirectness, or not being obvious.
+  - Hindi: सूक्ष्मता / बारीकी
+  - Example 1: The painting’s beauty lies in subtlety.
+  - Example 2: Good persuasion often requires subtlety.
+
+- **forthright**
+  - English: direct, honest, and clear.
+  - Hindi: स्पष्टवादी
+  - Example 1: She gave a forthright answer.
+  - Example 2: His forthright style can feel blunt.
+
+- **repressed**
+  - English: pushed down or held back, especially feelings/desires.
+  - Hindi: दबा हुआ
+  - Example 1: Repressed anger can appear indirectly.
+  - Example 2: The story explores repressed desires.
+
+- **preconceptions**
+  - English: ideas formed before enough knowledge or experience.
+  - Hindi: पूर्वधारणाएँ
+  - Example 1: Question your preconceptions before judging.
+  - Example 2: His preconceptions hid the truth.
+
+- **perceive**
+  - English: to see, notice, understand, or interpret.
+  - Hindi: देखना / समझना
+  - Example 1: People perceive events differently.
+  - Example 2: She could perceive tension in the room.
+
+- **heightens**
+  - English: increases or makes stronger.
+  - Hindi: बढ़ाता है / तीव्र करता है
+  - Example 1: Mystery heightens desire.
+  - Example 2: Music heightens the emotion.
+
+- **ambiguity**
+  - English: uncertainty or openness to more than one meaning.
+  - Hindi: अस्पष्टता
+  - Example 1: The ambiguity of the ending made the film memorable.
+  - Example 2: A little ambiguity can make someone mysterious.
+
+- **saturating**
+  - English: filling completely or excessively.
+  - Hindi: पूरी तरह भर देना
+  - Example 1: The company avoided saturating the market.
+  - Example 2: The news was saturating every channel.
+
+- **hyperbolic**
+  - English: greatly exaggerated.
+  - Hindi: अतिशयोक्तिपूर्ण
+  - Example 1: The ad used hyperbolic language.
+  - Example 2: His hyperbolic claims seemed suspicious.
+
+- **covetous**
+  - English: full of desire to possess what others have.
+  - Hindi: लालसा से भरा
+  - Example 1: He gave the car a covetous look.
+  - Example 2: A covetous attitude makes happiness difficult.
+
+- **inject**
+  - English: to introduce or add into something.
+  - Hindi: डालना / जोड़ना
+  - Example 1: She tried to inject humor into the meeting.
+  - Example 2: The designer injected energy into the brand.
+
+- **ambiguous**
+  - English: unclear or open to several interpretations.
+  - Hindi: अस्पष्ट
+  - Example 1: His message was ambiguous.
+  - Example 2: The ambiguous ending invited many interpretations.
+
+- **intervene**
+  - English: to step in or become involved.
+  - Hindi: हस्तक्षेप करना
+  - Example 1: The teacher had to intervene.
+  - Example 2: Sometimes it is better not to intervene directly.
+
+- **fickle**
+  - English: changing often and unpredictably.
+  - Hindi: चंचल / अस्थिर
+  - Example 1: Public opinion can be fickle.
+  - Example 2: Fashion trends are often fickle.
+
+- **rivalry**
+  - English: competition for the same thing.
+  - Hindi: प्रतिद्वंद्विता
+  - Example 1: The rivalry between the teams was intense.
+  - Example 2: A little rivalry can increase motivation.
+
+- **bidding**
+  - English: offering a price or competing to gain something.
+  - Hindi: बोली लगाना
+  - Example 1: The bidding for the painting went high.
+  - Example 2: Several companies joined the bidding.
+
+- **bothered**
+  - English: troubled, worried, or annoyed.
+  - Hindi: परेशान
+  - Example 1: She seemed bothered by the comment.
+  - Example 2: He was bothered by the noise.
+
+- **illicit**
+  - English: forbidden by law, rules, or social norms.
+  - Hindi: अवैध / निषिद्ध
+  - Example 1: They were accused of illicit trade.
+  - Example 2: The secret meeting had an illicit thrill.
+
+- **contrast**
+  - English: a clear difference between two things.
+  - Hindi: विरोधाभास / अंतर
+  - Example 1: There was a strong contrast between their lifestyles.
+  - Example 2: The dark background created contrast.
+
+- **stodgy**
+  - English: dull, old-fashioned, or lacking energy.
+  - Hindi: नीरस / पुराने ढंग का
+  - Example 1: The presentation felt stodgy.
+  - Example 2: He avoided the restaurant because it was stodgy.
+
+- **stultifying conformity**
+  - English: a deadening pressure to behave like everyone else.
+  - Hindi: दम घोंटने वाली एकरूपता
+  - Example 1: The office culture had stultifying conformity.
+  - Example 2: Artists often resist stultifying conformity.
+
+- **vigor**
+  - English: energy, strength, and active force.
+  - Hindi: जोश / ऊर्जा
+  - Example 1: He approached the work with vigor.
+  - Example 2: Exercise restored her vigor.
+
+- **tacitly**
+  - English: silently or indirectly understood.
+  - Hindi: मौन रूप से
+  - Example 1: Everyone tacitly agreed.
+  - Example 2: The rule was tacitly accepted.
+
+- **voyeurism**
+  - English: interest in watching other people’s private lives.
+  - Hindi: दूसरों की निजी जिंदगी झाँकने की प्रवृत्ति
+  - Example 1: Reality shows often appeal to voyeurism.
+  - Example 2: The article criticized public voyeurism.
+
+- **voyeuristic**
+  - English: related to curiosity about hidden/private things.
+  - Hindi: झाँकने की प्रवृत्ति वाला
+  - Example 1: The film had a voyeuristic quality.
+  - Example 2: Social media can encourage voyeuristic curiosity.
+
+- **outraged**
+  - English: very angry and shocked.
+  - Hindi: आक्रोशित
+  - Example 1: People were outraged by the decision.
+  - Example 2: She was outraged by the unfair treatment.
+
+- **numbingly**
+  - English: in a way that makes one feel dull or emotionally numb.
+  - Hindi: सुन्न कर देने वाले ढंग से
+  - Example 1: The lecture was numbingly long.
+  - Example 2: The work became numbingly repetitive.
+
+- **conquering**
+  - English: defeating or overcoming.
+  - Hindi: जीतना / काबू पाना
+  - Example 1: She focused on conquering her fear.
+  - Example 2: The story is about conquering impossible odds.
+
+- **preying**
+  - English: taking advantage of someone’s weakness.
+  - Hindi: शिकार बनाना / फायदा उठाना
+  - Example 1: Scammers were preying on older people.
+  - Example 2: Some ads prey on insecurity.
+
+- **discontented**
+  - English: unhappy or dissatisfied.
+  - Hindi: असंतुष्ट
+  - Example 1: He felt discontented despite success.
+  - Example 2: A discontented employee may leave.
+
+- **homing**
+  - English: focusing or moving toward a target.
+  - Hindi: लक्ष्य की ओर केंद्रित होना
+  - Example 1: The missile was homing in on its target.
+  - Example 2: She began homing in on the problem.
+
+- **ceaseless**
+  - English: never stopping; continuous.
+  - Hindi: लगातार / अनवरत
+  - Example 1: The ceaseless noise made sleep impossible.
+  - Example 2: He felt tired from ceaseless demands.
+
+- **chimeras**
+  - English: imaginary hopes or impossible dreams.
+  - Hindi: मृगतृष्णाएँ / भ्रम
+  - Example 1: He wasted years chasing chimeras.
+  - Example 2: Some ambitions are only chimeras.
+
+- **acquaintance**
+  - English: someone you know but not closely.
+  - Hindi: परिचित
+  - Example 1: She invited a few acquaintances.
+  - Example 2: He is an acquaintance, not a close friend.
+
+- **disdain**
+  - English: feeling that someone/something is unworthy of respect.
+  - Hindi: तिरस्कार
+  - Example 1: He spoke with disdain.
+  - Example 2: She looked at the imitation with disdain.
